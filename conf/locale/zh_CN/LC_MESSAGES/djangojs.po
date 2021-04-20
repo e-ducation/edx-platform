@@ -1,39 +1,43 @@
 # #-#-#-#-#  djangojs-partial.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2019
+# 嘉杰 李 <jj.li@eliteu.com.cn>, 2018
+# 婕 高 <j.gao@eliteu.cn>, 2018
+# 家璧 刘 <jb.liu@eliteu.com.cn>, 2018
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  djangojs-studio.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  underscore.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)
-# Copyright (C) 2020 edX
+# Copyright (C) 2021 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# Sushan Wu <ss.wu@eliteu.com.cn>, 2019
-# li ying <code@eliteu.cn>, 2019
+# 微 李 <w.li@eliteu.com.cn>, 2018
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  underscore-studio.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)
-# Copyright (C) 2020 edX
+# Copyright (C) 2021 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2019
+# Sushan Wu <ss.wu@eliteu.com.cn>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  membership-js.po (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
@@ -43,32 +47,33 @@
 #
 # Translators:
 # li ying <code@eliteu.cn>, 2019
+# fengri <173770922@qq.com>, 2019
 #
 # #-#-#-#-#  djangojs-theme.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  underscore-theme.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)
-# Copyright (C) 2020 edX
+# Copyright (C) 2021 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2020-01-10 17:58+0800\n"
-"PO-Revision-Date: 2019-06-19 06:25+0000\n"
-"Last-Translator: li ying <code@eliteu.cn>, 2019\n"
+"POT-Creation-Date: 2021-04-20 06:25+0000\n"
+"PO-Revision-Date: 2021-04-20 06:47+0000\n"
+"Last-Translator: li ying <code@eliteu.cn>, 2021\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -390,7 +395,7 @@ msgstr[0] "%(num_points)s满分（不计入成绩）"
 #: common/lib/xmodule/xmodule/js/src/capa/display.js
 msgid "%(earned)s/%(possible)s point (graded)"
 msgid_plural "%(earned)s/%(possible)s points (graded)"
-msgstr[0] "%(earned)s/%(possible)s 得分 (计入成绩)"
+msgstr[0] "%(earned)s/%(possible)s得分 (计入成绩)"
 
 #. Translators: %(earned)s is the number of points earned. %(possible)s is the
 #. total number of points (examples: 0/1, 1/1, 2/3, 5/10). The total number of
@@ -2219,7 +2224,7 @@ msgstr "格式不正确"
 
 #: common/static/common/js/utils/edx.utils.validate.js
 msgid "%(field)s must have at least %(count)d characters."
-msgstr "%(field)s至少要有 %(count)d 字符。"
+msgstr "%(field)s 至少要有 %(count)d 字符。"
 
 #: common/static/common/js/utils/edx.utils.validate.js
 msgid "%(field)s can only contain up to %(count)d characters."
@@ -3617,11 +3622,14 @@ msgstr "标记选课码为尚未使用的"
 #: cms/templates/js/transcript-organization-credentials.underscore
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore
 #: lms/templates/financial-assistance/financial_assessment_form.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/course_allowances.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
 msgid "Username"
 msgstr "用户名"
 
 #: lms/static/js/instructor_dashboard/membership.js
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/course_allowances.underscore
 msgid "Email"
 msgstr "电子邮件"
 
@@ -4566,11 +4574,11 @@ msgstr "您参加了“哈佛管理导师”，暂不支持修改邮箱。"
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid "Secondary Email Address"
-msgstr "备选邮箱"
+msgstr "辅助邮箱地址"
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid "You may access your account when single-sign on is not available."
-msgstr "如果单点登录不可用，您可以访问自己的账号。"
+msgstr "当单点登录不可用时，您可以访问您的帐户。"
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js
@@ -4660,7 +4668,7 @@ msgstr "首选语言"
 msgid ""
 "We've sent a confirmation message to {new_secondary_email_address}. Click "
 "the link in the message to update your secondary email address."
-msgstr "我们已向{new_secondary_email_address}发送了确认消息。 点击邮件中的链接以更新辅助电子邮件地址。"
+msgstr "我们已会发送一个验证讯息至 {new_secondary_email_address}。点击讯息中的链接以更新您的电子邮件信箱。"
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid "Social Media Links"
@@ -5587,6 +5595,7 @@ msgstr "添加日期"
 
 #: cms/static/js/views/assets.js cms/templates/js/asset-library.underscore
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
 msgid "Type"
 msgstr "类型"
 
@@ -5938,7 +5947,7 @@ msgstr "可见性"
 #. Translators: "title" is the name of the current component being edited.
 #: cms/static/js/views/modals/edit_xblock.js
 msgid "Editing: {title}"
-msgstr "正在编辑：{title}"
+msgstr "编辑：{title}"
 
 #: cms/static/js/views/modals/edit_xblock.js
 msgid "Plugins"
@@ -6438,6 +6447,7 @@ msgid "Video duration is {humanizeDuration}"
 msgstr "视频时长 {humanizeDuration}"
 
 #: cms/static/js/views/video_thumbnail.js
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
 msgid "minutes"
 msgstr "分"
 
@@ -6557,8 +6567,15 @@ msgstr "更新标签中"
 #: cms/templates/js/asset-library.underscore
 #: cms/templates/js/basic-modal.underscore
 #: lms/templates/instructor/instructor_dashboard_2/enrollment-code-lookup-links.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/course_allowances.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
 msgid "Actions"
 msgstr "操作"
+
+#: cms/templates/js/course-outline.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+msgid "Timed Exam"
+msgstr "计时测验"
 
 #: cms/templates/js/course-outline.underscore
 #: cms/templates/js/publish-xblock.underscore
@@ -6999,6 +7016,7 @@ msgid "Course Key"
 msgstr "课程标识"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
 msgid "Status"
 msgstr "状态"
 
@@ -7884,7 +7902,7 @@ msgstr "挑选一个会话："
 
 #: lms/templates/learner_dashboard/course_enroll.underscore
 msgid "Enroll Now"
-msgstr "现在加入"
+msgstr "现在选课"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore
 msgid "Coming Soon"
@@ -7892,7 +7910,7 @@ msgstr "即将上线"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore
 msgid "Enrollment Opens on"
-msgstr "开放注册"
+msgstr "开放注测"
 
 #: lms/templates/learner_dashboard/course_enroll.underscore
 msgid "Not Currently Available"
@@ -8018,7 +8036,7 @@ msgstr "恭喜！"
 #: lms/templates/learner_dashboard/program_details_view.underscore
 msgid ""
 "You have successfully completed all the requirements for the {title} {type}."
-msgstr "您已成功完成 {title} {type}专业的所有要求。"
+msgstr "您已成功完成{title} {type}的所有要求。"
 
 #: lms/templates/learner_dashboard/program_details_view.underscore
 msgid "Your Program Journey"
@@ -8027,7 +8045,7 @@ msgstr "您的课程学习之旅"
 #: lms/templates/learner_dashboard/program_details_view.underscore
 msgid ""
 "Track and plan your progress through the {count} courses in this program."
-msgstr "通过本系列的 {count} 门课程来跟踪和计划你的学习进度。"
+msgstr ""
 
 #: lms/templates/learner_dashboard/program_details_view.underscore
 msgid ""
@@ -8045,7 +8063,7 @@ msgstr "{listPrice}"
 
 #: lms/templates/learner_dashboard/program_details_view.underscore
 msgid "{price})"
-msgstr "{price}）"
+msgstr ""
 
 #: lms/templates/learner_dashboard/program_details_view.underscore
 msgid "COURSES IN PROGRESS"
@@ -8094,17 +8112,17 @@ msgstr "重设密码"
 
 #: lms/templates/student_account/account_recovery.underscore
 msgid "Account Recovery"
-msgstr "验证账户"
+msgstr "帐户恢复"
 
 #: lms/templates/student_account/account_recovery.underscore
 msgid ""
 "Please enter your secondary email address below and we will send you "
 "instructions for recovering your account and setting a new password."
-msgstr "请在下面输入您的电子邮件以便我们给您发送如何设置新密码的说明。"
+msgstr "请在下面输入您的辅助电子邮件以便我们给您发送如何设置新密码的说明。"
 
 #: lms/templates/student_account/account_recovery.underscore
 msgid "Recover my account"
-msgstr "删除我的账号"
+msgstr "恢复我的账号"
 
 #: lms/templates/student_account/account_settings.underscore
 #: themes/elitemba-theme/lms/templates/student_account/account_settings.underscore
@@ -8181,7 +8199,6 @@ msgid "Sign in to continue learning"
 msgstr "登录并继续学习"
 
 #: lms/templates/student_account/login.underscore
-#: themes/elitemba-theme/lms/templates/student_account/login.underscore
 msgid ""
 "You already have an EliteMBA account with your {enterprise_name} email "
 "address."
@@ -8784,6 +8801,75 @@ msgstr "重新拍照"
 msgid "Take Photo"
 msgstr "拍照"
 
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+msgid "Add a New Allowance"
+msgstr ""
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+msgid "Special Exam"
+msgstr "专业测验"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
+#, python-format
+msgid " %(exam_display_name)s "
+msgstr "%(exam_display_name)s"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+msgid "Exam Type"
+msgstr "测试类别"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/course_allowances.underscore
+msgid "Allowance Type"
+msgstr ""
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+msgid "Additional Time (minutes)"
+msgstr "额外时间（分钟）"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+msgid "Value"
+msgstr "值"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/add-new-allowance.underscore
+msgid "Username or Email"
+msgstr "用户名或电子邮件："
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/course_allowances.underscore
+msgid "Allowances"
+msgstr ""
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/course_allowances.underscore
+msgid "Add Allowance"
+msgstr ""
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/course_allowances.underscore
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
+msgid "Exam Name"
+msgstr "测试名称"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/course_allowances.underscore
+msgid "Allowance Value"
+msgstr ""
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
+msgid "Time Limit"
+msgstr "时间限制"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
+msgid "Started At"
+msgstr "开始于"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
+msgid "Completed At"
+msgstr "完成于"
+
+#: node_modules/@edx/edx-proctoring/edx_proctoring/static/proctoring/templates/student-proctored-exam-attempts.underscore
+#, python-format
+msgid " %(username)s "
+msgstr "%(username)s"
+
 #: openedx/features/course_bookmarks/static/course_bookmarks/templates/bookmarks-list.underscore
 msgid "Bookmarked on"
 msgstr "标记书签"
@@ -9327,10 +9413,6 @@ msgstr "模拟监考"
 #: cms/templates/js/course-outline.underscore
 msgid "Proctored Exam"
 msgstr "监考下的测试"
-
-#: cms/templates/js/course-outline.underscore
-msgid "Timed Exam"
-msgstr ""
 
 #: cms/templates/js/course-outline.underscore
 #: cms/templates/js/xblock-outline.underscore
@@ -9949,7 +10031,7 @@ msgstr "员工与学员"
 #: cms/templates/js/publish-xblock.underscore
 #: cms/templates/js/staff-lock-editor.underscore
 msgid "Hide from learners"
-msgstr "对学习这隐藏"
+msgstr "对学习者隐藏"
 
 #: cms/templates/js/publish-xblock.underscore
 msgid "Note: Do not hide graded assignments after they have been released."
@@ -10027,7 +10109,7 @@ msgstr "如果节不设有截止日期，那么只要学员提交答案至评分
 
 #: cms/templates/js/show-textbook.underscore
 msgid "PDF Chapters"
-msgstr "PDF各章节"
+msgstr "PDF 各章节"
 
 #: cms/templates/js/signatory-details.underscore
 #: cms/templates/js/signatory-editor.underscore
@@ -10545,4 +10627,10 @@ msgstr "手机号码绑定成功"
 
 #: themes/elitemba-theme/lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
 msgid "Certificate exceptions group selection"
-msgstr "选择群体"
+msgstr ""
+
+#: themes/elitemba-theme/lms/templates/student_account/login.underscore
+msgid ""
+"You already have an Elite A.I. Academy account with your {enterprise_name} "
+"email address."
+msgstr "您已使用{enterprise_name}邮箱地址注册英荔 AI 教育学院账号。"
