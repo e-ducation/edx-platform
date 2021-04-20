@@ -44,8 +44,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2021-04-20 06:25+0000\n"
-"PO-Revision-Date: 2021-04-20 06:27:17.814093\n"
+"POT-Creation-Date: 2021-04-20 08:58+0000\n"
+"PO-Revision-Date: 2021-04-20 09:00:11.201850\n"
 "Last-Translator: \n"
 "Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
 "Language: en\n"
@@ -2935,9 +2935,9 @@ msgstr ""
 
 #: lms/static/js/ajax-error.js
 msgid ""
-"You have been logged out of your EliteMBA account. Click Okay to log in "
-"again now. Click Cancel to stay on this page (you must log in again to save "
-"your work)."
+"You have been logged out of your Elite A.I. Academy account. Click Okay to "
+"log in again now. Click Cancel to stay on this page (you must log in again "
+"to save your work)."
 msgstr ""
 
 #: lms/static/js/api_admin/views/catalog_preview.js
@@ -3460,7 +3460,7 @@ msgid ""
 "This course uses automatic cohorting for verified track learners. You cannot"
 " disable cohorts, and you cannot rename the manual cohort named "
 "'{verifiedCohortName}'. To change the configuration for verified track "
-"cohorts, contact your EliteMBA partner manager."
+"cohorts, contact your Elite A.I. Academy partner manager."
 msgstr ""
 
 #: lms/static/js/groups/views/verified_track_settings_notification.js
@@ -4344,8 +4344,8 @@ msgstr ""
 msgid ""
 "{strongStart}Warning: Account deletion is permanent.{strongEnd} Please read "
 "the above carefully before proceeding. This is an irreversible action, and "
-"{strongStart}you will no longer be able to use the same email on "
-"EliteMBA.{strongEnd}"
+"{strongStart}you will no longer be able to use the same email on Elite A.I. "
+"Academy.{strongEnd}"
 msgstr ""
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
@@ -4355,15 +4355,15 @@ msgstr ""
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
 msgid ""
 "Please note: Deletion of your account and personal data is permanent and "
-"cannot be undone. EliteMBA will not be able to recover your account or the "
-"data that is deleted."
+"cannot be undone. Elite A.I. Academy will not be able to recover your "
+"account or the data that is deleted."
 msgstr ""
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx
 msgid ""
-"Once your account is deleted, you cannot use it to take courses on the "
-"EliteMBA app, elitemba.cn, or any other site hosted by EliteMBA."
+"Once your account is deleted, you cannot use it to take courses on the site "
+"hosted by Elite A.I. Academy."
 msgstr ""
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
@@ -4396,8 +4396,8 @@ msgstr ""
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx
 msgid ""
 "You have selected “Delete my account.” Deletion of your account and personal"
-" data is permanent and cannot be undone. EliteMBA will not be able to "
-"recover your account or the data that is deleted."
+" data is permanent and cannot be undone. Elite A.I. Academy will not be able"
+" to recover your account or the data that is deleted."
 msgstr ""
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx
@@ -4522,7 +4522,7 @@ msgstr ""
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid ""
 "Your profile settings are managed by {enterprise_name}. Contact your "
-"administrator or {link_start}EliteMBA Support{link_end} for help."
+"administrator or {link_start}Elite A.I. Academy Support{link_end} for help."
 msgstr ""
 
 #: lms/static/js/student_account/views/account_settings_factory.js
@@ -4644,7 +4644,7 @@ msgstr ""
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid ""
 "Optionally, link your personal accounts to the social media icons on your "
-"EliteMBA profile."
+"Elite A.I. Academy profile."
 msgstr ""
 
 #: lms/static/js/student_account/views/account_settings_factory.js
@@ -8154,9 +8154,10 @@ msgid "Sign in to continue learning"
 msgstr ""
 
 #: lms/templates/student_account/login.underscore
+#: themes/elitemba-theme/lms/templates/student_account/login.underscore
 msgid ""
-"You already have an EliteMBA account with your {enterprise_name} email "
-"address."
+"You already have an Elite A.I. Academy account with your {enterprise_name} "
+"email address."
 msgstr ""
 
 #: lms/templates/student_account/login.underscore
@@ -10567,10 +10568,4 @@ msgstr ""
 
 #: themes/elitemba-theme/lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
 msgid "Certificate exceptions group selection"
-msgstr ""
-
-#: themes/elitemba-theme/lms/templates/student_account/login.underscore
-msgid ""
-"You already have an Elite A.I. Academy account with your {enterprise_name} "
-"email address."
 msgstr ""
