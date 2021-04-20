@@ -66,8 +66,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2021-04-20 06:25+0000\n"
-"PO-Revision-Date: 2021-04-20 06:27:18.888464\n"
+"POT-Creation-Date: 2021-04-20 08:58+0000\n"
+"PO-Revision-Date: 2021-04-20 09:00:12.081316\n"
 "Last-Translator: \n"
 "Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
 "Language: en\n"
@@ -2680,8 +2680,8 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
-"Enter the name of the course as it should appear in the EliteMBA.cn course "
-"list."
+"Enter the name of the course as it should appear in the Elite A.I. Academy "
+"course list."
 msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
@@ -2779,8 +2779,8 @@ msgstr ""
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
 "Enter true or false. If true, the course appears in the list of new courses "
-"on EliteMBA.cn, and a New! badge temporarily appears next to the course "
-"image."
+"on Elite A.I. Academy, and a New! badge temporarily appears next to the "
+"course image."
 msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
@@ -2799,8 +2799,8 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
-"Enter the unique identifier for your course's video files provided by "
-"EliteMBA."
+"Enter the unique identifier for your course's video files provided by Elite "
+"A.I. Academy."
 msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
@@ -2865,8 +2865,8 @@ msgstr ""
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
 "Allow course instructors to assign CCX Coach roles, and allow coaches to "
-"manage Custom Courses on EliteMBA. When false, Custom Courses cannot be "
-"created, but existing Custom Courses will be preserved."
+"manage Custom Courses on Elite A.I. Academy. When false, Custom Courses "
+"cannot be created, but existing Custom Courses will be preserved."
 msgstr ""
 
 #. Translators: Custom Courses for edX (CCX) is an edX feature for re-using
@@ -3144,8 +3144,8 @@ msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
-"Enter true or false. If true, EliteMBA users can view the course wiki even "
-"if they're not enrolled in the course."
+"Enter true or false. If true, Elite A.I. Academy users can view the course "
+"wiki even if they're not enrolled in the course."
 msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
@@ -9770,7 +9770,7 @@ msgid "Our mailing address is"
 msgstr ""
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_head.html
-msgid "EliteMBA Email"
+msgid "Elite A.I. Academy Email"
 msgstr ""
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/upsell_cta.html
@@ -10892,8 +10892,8 @@ msgstr ""
 #: openedx/core/djangoapps/user_api/api.py
 #, python-brace-format
 msgid ""
-"By checking this box, you agree                   to abide by EliteMBA's"
-"                   "
+"By checking this box, you agree                   to abide by Elite A.I. "
+"Academy's                   "
 "{user_agreement_link_start}{user_agreement}{user_agreement_link_end}, "
 "{disclaimer_link_start}{disclaimer}{disclaimer_link_end}                   "
 "and {privacy_policy_link_start}Privacy Policy{privacy_policy_link_end}."
@@ -20737,7 +20737,7 @@ msgid ""
 msgstr ""
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html
-msgid "{learner_name}, EliteMBA Learner"
+msgid "{learner_name}, Elite A.I. Academy Learner"
 msgstr ""
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html

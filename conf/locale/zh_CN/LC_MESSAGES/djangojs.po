@@ -2955,10 +2955,10 @@ msgstr "标题"
 
 #: lms/static/js/ajax-error.js
 msgid ""
-"You have been logged out of your EliteMBA account. Click Okay to log in "
-"again now. Click Cancel to stay on this page (you must log in again to save "
-"your work)."
-msgstr "您已退出EliteMBA账号，点击“确定”重新登录，点击“取消”留在此页面（必须重新登录才能保存内容）。"
+"You have been logged out of your Elite A.I. Academy account. Click Okay to "
+"log in again now. Click Cancel to stay on this page (you must log in again "
+"to save your work)."
+msgstr "您已退出英荔 AI 教育学院账号，点击“确定”重新登录，点击“取消”留在此页面（必须重新登录才能保存内容）。"
 
 #: lms/static/js/api_admin/views/catalog_preview.js
 msgid "Preview this query"
@@ -3475,10 +3475,10 @@ msgid ""
 "This course uses automatic cohorting for verified track learners. You cannot"
 " disable cohorts, and you cannot rename the manual cohort named "
 "'{verifiedCohortName}'. To change the configuration for verified track "
-"cohorts, contact your EliteMBA partner manager."
+"cohorts, contact your Elite A.I. Academy partner manager."
 msgstr ""
-"这门课程为要获取认证证书的学生自动分组。您无法取消分组，也无法重新命名手动设置的群组'{verifiedCohortName}'。如要改变认证组的分组设置，请联系您的EliteMBA"
-" 合作经理。"
+"这门课程为要获取认证证书的学生自动分组。您无法取消分组，也无法重新命名手动设置的群组'{verifiedCohortName}'。如要改变认证组的分组设置，请联系您的英荔"
+" AI 教育学院合作经理。"
 
 #: lms/static/js/groups/views/verified_track_settings_notification.js
 msgid ""
@@ -4373,10 +4373,11 @@ msgstr "{htmlStart}是否想要更改您的电子邮件，名字，或者密码�
 msgid ""
 "{strongStart}Warning: Account deletion is permanent.{strongEnd} Please read "
 "the above carefully before proceeding. This is an irreversible action, and "
-"{strongStart}you will no longer be able to use the same email on "
-"EliteMBA.{strongEnd}"
+"{strongStart}you will no longer be able to use the same email on Elite A.I. "
+"Academy.{strongEnd}"
 msgstr ""
-"{strongStart}警告：账号将被永久删除。{strongEnd}在继续之前，请仔细阅读以上内容。这是一个不可撤销的操作，并且{strongStart}您将不能够在英荔商学院上使用相同的电子邮件地址。{strongEnd}"
+"{strongStart}警告：账号将被永久删除。{strongEnd}在继续之前，请仔细阅读以上内容。这是一个不可撤销的操作，并且{strongStart}您将不能够在英荔"
+" AI 教育学院上使用相同的电子邮件地址。{strongEnd}"
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
 msgid "We’re sorry to see you go!"
@@ -4385,16 +4386,16 @@ msgstr "很遗憾看到您要离开！"
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
 msgid ""
 "Please note: Deletion of your account and personal data is permanent and "
-"cannot be undone. EliteMBA will not be able to recover your account or the "
-"data that is deleted."
-msgstr "请注意：删除账号及个人数据的操作将不可撤销。英荔商学院无法恢复已删除的账号及数据。"
+"cannot be undone. Elite A.I. Academy will not be able to recover your "
+"account or the data that is deleted."
+msgstr "请注意：删除账号及个人数据的操作将不可撤销。英荔 AI 教育学院无法恢复已删除的账号及数据。"
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx
 msgid ""
-"Once your account is deleted, you cannot use it to take courses on the "
-"EliteMBA app, elitemba.cn, or any other site hosted by EliteMBA."
-msgstr "一旦删除了账号，您将无法在英荔商学院App、elitemba.cn或其他任何由英荔商学院托管的站点上学习课程。"
+"Once your account is deleted, you cannot use it to take courses on the site "
+"hosted by Elite A.I. Academy."
+msgstr "一旦删除了账号，您将无法在英荔 AI 教育学院托管的站点上学习课程。"
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx
 #: lms/static/js/student_account/views/account_settings_factory.js
@@ -4426,9 +4427,9 @@ msgstr "密码为必填项"
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx
 msgid ""
 "You have selected “Delete my account.” Deletion of your account and personal"
-" data is permanent and cannot be undone. EliteMBA will not be able to "
-"recover your account or the data that is deleted."
-msgstr "您选择了“删除我的账号”，删除账号与个人数据将无法撤销。英荔商学院无法恢复您已删除的账号或数据。"
+" data is permanent and cannot be undone. Elite A.I. Academy will not be able"
+" to recover your account or the data that is deleted."
+msgstr "您选择了「删除我的账号」，删除账号与个人数据将无法撤销。英荔 AI 教育学院无法恢复您已删除的账号或数据。"
 
 #: lms/static/js/student_account/components/StudentAccountDeletionModal.jsx
 msgid ""
@@ -4554,9 +4555,9 @@ msgstr "您只需再多提供一点信息就可以开始在%(platformName)s学�
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid ""
 "Your profile settings are managed by {enterprise_name}. Contact your "
-"administrator or {link_start}EliteMBA Support{link_end} for help."
+"administrator or {link_start}Elite A.I. Academy Support{link_end} for help."
 msgstr ""
-"您的账号设置由{enterprise_name}管理，如需帮助请联系您的管理员或{link_start}EliteMBA支持{link_end}。"
+"您的账号设置由{enterprise_name}管理，如需帮助请联系您的管理员或{link_start}英荔 AI 教育学院支持{link_end}。"
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid "Email Address (Sign In)"
@@ -4677,8 +4678,8 @@ msgstr "社交媒体链接"
 #: lms/static/js/student_account/views/account_settings_factory.js
 msgid ""
 "Optionally, link your personal accounts to the social media icons on your "
-"EliteMBA profile."
-msgstr "您可以选择将个人社交媒体的链接图标放到您的EliteMBA个人资料中。"
+"Elite A.I. Academy profile."
+msgstr "您可以选择将个人社交媒体的链接图标放到您的英荔 AI 教育学院个人资料中。"
 
 #: lms/static/js/student_account/views/account_settings_factory.js
 #, javascript-format
@@ -8199,10 +8200,11 @@ msgid "Sign in to continue learning"
 msgstr "登录并继续学习"
 
 #: lms/templates/student_account/login.underscore
+#: themes/elitemba-theme/lms/templates/student_account/login.underscore
 msgid ""
-"You already have an EliteMBA account with your {enterprise_name} email "
-"address."
-msgstr "您已使用{enterprise_name}邮箱地址注册EliteMBA账号。"
+"You already have an Elite A.I. Academy account with your {enterprise_name} "
+"email address."
+msgstr "您已使用{enterprise_name}邮箱地址注册英荔 AI 教育学院账号。"
 
 #: lms/templates/student_account/login.underscore
 #: themes/elitemba-theme/lms/templates/student_account/login.underscore
@@ -10628,9 +10630,3 @@ msgstr "手机号码绑定成功"
 #: themes/elitemba-theme/lms/templates/instructor/instructor_dashboard_2/certificate-white-list.underscore
 msgid "Certificate exceptions group selection"
 msgstr ""
-
-#: themes/elitemba-theme/lms/templates/student_account/login.underscore
-msgid ""
-"You already have an Elite A.I. Academy account with your {enterprise_name} "
-"email address."
-msgstr "您已使用{enterprise_name}邮箱地址注册英荔 AI 教育学院账号。"

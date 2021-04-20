@@ -105,7 +105,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2021-04-20 06:25+0000\n"
+"POT-Creation-Date: 2021-04-20 08:58+0000\n"
 "PO-Revision-Date: 2021-04-20 06:47+0000\n"
 "Last-Translator: li ying <code@eliteu.cn>, 2021\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)\n"
@@ -2703,9 +2703,9 @@ msgstr "输入对或错。当输入为对时，学生可以造课程中看到计
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
-"Enter the name of the course as it should appear in the EliteMBA.cn course "
-"list."
-msgstr "输入应当出现在 EliteMBA.cn 课程列表中的课程名称。"
+"Enter the name of the course as it should appear in the Elite A.I. Academy "
+"course list."
+msgstr "输入应当出现在英荔 AI 教育学院课程列表中的课程名称。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Display Name"
@@ -2811,10 +2811,10 @@ msgstr "新课程"
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
 "Enter true or false. If true, the course appears in the list of new courses "
-"on EliteMBA.cn, and a New! badge temporarily appears next to the course "
-"image."
+"on Elite A.I. Academy, and a New! badge temporarily appears next to the "
+"course image."
 msgstr ""
-"输入true或者false。如果输入true，课程会出现在EliteMBA.cn的新课程列表中，并且在课程图片旁边会出现一个New!样式的临时图标。"
+"输入true或者false。如果输入true，课程会出现在英荔 AI 教育学院的新课程列表中，并且在课程图片旁边会出现一个New!样式的临时图标。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Mobile Course Available"
@@ -2832,9 +2832,9 @@ msgstr "视频上传凭据"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
-"Enter the unique identifier for your course's video files provided by "
-"EliteMBA."
-msgstr "请为EliteMBA提供给您的课程视频文件输入唯一标识符。"
+"Enter the unique identifier for your course's video files provided by Elite "
+"A.I. Academy."
+msgstr "请为英荔 AI 教育学院提供给您的课程视频文件输入唯一标识符。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Not Graded"
@@ -2898,10 +2898,11 @@ msgstr "启用CCX"
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
 "Allow course instructors to assign CCX Coach roles, and allow coaches to "
-"manage Custom Courses on EliteMBA. When false, Custom Courses cannot be "
-"created, but existing Custom Courses will be preserved."
+"manage Custom Courses on Elite A.I. Academy. When false, Custom Courses "
+"cannot be created, but existing Custom Courses will be preserved."
 msgstr ""
-"允许课程的主讲老师指派CCX指导角色，并允许指导们在EliteMBA上管理自定义课程。当值为“false”时，将不能创建自定义课程，但已有的自定义课程将会保留。"
+"允许课程的主讲老师指派 CCX 指导角色，并允许指导们在英荔 AI "
+"教育学院上管理自定义课程。当值为「false」时，将不能创建自定义课程，但已有的自定义课程将会保留。"
 
 #. Translators: Custom Courses for edX (CCX) is an edX feature for re-using
 #. course content.
@@ -3187,9 +3188,9 @@ msgstr "允许公共 Wiki 访问"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
-"Enter true or false. If true, EliteMBA users can view the course wiki even "
-"if they're not enrolled in the course."
-msgstr "输入true或false。如果为true，EliteMBA用户即使未选修该课程也可以查看课程Wiki 。"
+"Enter true or false. If true, Elite A.I. Academy users can view the course "
+"wiki even if they're not enrolled in the course."
+msgstr "输入true或false。如果为true，英荔 AI 教育学院用户即使未选修该课程也可以查看课程Wiki 。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Invitation Only"
@@ -9975,8 +9976,8 @@ msgid "Our mailing address is"
 msgstr "我们的邮箱地址"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/base_head.html
-msgid "EliteMBA Email"
-msgstr "英荔商学院邮箱"
+msgid "Elite A.I. Academy Email"
+msgstr "英荔 AI 教育学院邮箱"
 
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/upsell_cta.html
 #: openedx/core/djangoapps/ace_common/templates/ace_common/edx_ace/common/upsell_cta.txt
@@ -11119,13 +11120,14 @@ msgstr "只有在您同意我们的用户协议，免责声明和隐私政策后
 #: openedx/core/djangoapps/user_api/api.py
 #, python-brace-format
 msgid ""
-"By checking this box, you agree                   to abide by EliteMBA's"
-"                   "
+"By checking this box, you agree                   to abide by Elite A.I. "
+"Academy's                   "
 "{user_agreement_link_start}{user_agreement}{user_agreement_link_end}, "
 "{disclaimer_link_start}{disclaimer}{disclaimer_link_end}                   "
 "and {privacy_policy_link_start}Privacy Policy{privacy_policy_link_end}."
 msgstr ""
-"注册即表示同意遵守英荔商学院的{user_agreement_link_start}{user_agreement}{user_agreement_link_end}、{disclaimer_link_start}{disclaimer}{disclaimer_link_end}和{privacy_policy_link_start}隐私政策{privacy_policy_link_end}"
+"注册即表示同意遵守英荔 AI "
+"教育学院的{user_agreement_link_start}{user_agreement}{user_agreement_link_end}、{disclaimer_link_start}{disclaimer}{disclaimer_link_end}和{privacy_policy_link_start}隐私政策{privacy_policy_link_end}"
 
 #: openedx/core/djangoapps/user_api/api.py
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -21130,8 +21132,8 @@ msgid ""
 msgstr "证书在我的简历上添了一笔 - 努力的收获让我离梦想的事业更近一部！"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html
-msgid "{learner_name}, EliteMBA Learner"
-msgstr "{learner_name}，EliteMBA学员"
+msgid "{learner_name}, Elite A.I. Academy Learner"
+msgstr "{learner_name}，英荔 AI 教育学院学员"
 
 #: openedx/features/course_experience/templates/course_experience/course-sock-fragment.html
 msgid ""
