@@ -879,7 +879,7 @@ class RegistrationFormFactory(object):
 
             label = Text(_(
                 u"By checking this box, you agree \
-                  to abide by EliteMBA's \
+                  to abide by Elite A.I. Academy's \
                   {user_agreement_link_start}{user_agreement}{user_agreement_link_end}, {disclaimer_link_start}{disclaimer}{disclaimer_link_end} \
                   and {privacy_policy_link_start}Privacy Policy{privacy_policy_link_end}."
             )).format(
