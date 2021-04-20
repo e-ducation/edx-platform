@@ -1771,8 +1771,8 @@ def financial_assistance_form(request):
                 'placeholder': '',
                 'name': 'mktg-permission',
                 'label': _(
-                    'I allow EliteMBA to use the information provided in this application '
-                    '(except for financial information) for EliteMBA marketing purposes.'
+                    'I allow Elite A.I. Academy to use the information provided in this application '
+                    '(except for financial information) for marketing purposes.'
                 ),
                 'defaultValue': '',
                 'type': 'checkbox',

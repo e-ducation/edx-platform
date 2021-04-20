@@ -11,7 +11,7 @@ from .common import *
 from .common import _make_mako_template_dirs
 from .eliteu import *
 
-PLATFORM_NAME = _('EliteMBA')
+PLATFORM_NAME = _('Elite A.I. Academy')
 
 FEATURES.update({
     # enable unicode username

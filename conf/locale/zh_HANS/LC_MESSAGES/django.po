@@ -1,49 +1,55 @@
 # #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
+# 微 李 <w.li@eliteu.com.cn>, 2018
+# 婕 高 <j.gao@eliteu.cn>, 2018
+# Yi Li <y.li@eliteu.cn>, 2018
+# 家璧 刘 <jb.liu@eliteu.com.cn>, 2018
+# 陈滢冲 <yc.chen@eliteu.cn>, 2018
 # fengri <173770922@qq.com>, 2019
 # Sushan Wu <ss.wu@eliteu.com.cn>, 2019
-# 健超 张 <jc.zhang@eliteu.com.cn>, 2019
-# li ying <code@eliteu.cn>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  django-studio.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2019
 # Sushan Wu <ss.wu@eliteu.com.cn>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  mako.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)
-# Copyright (C) 2020 edX
+# Copyright (C) 2021 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# Sushan Wu <ss.wu@eliteu.com.cn>, 2019
-# li ying <code@eliteu.cn>, 2019
+# 微 李 <w.li@eliteu.com.cn>, 2018
+# fengri <173770922@qq.com>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  mako-studio.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)
-# Copyright (C) 2020 edX
+# Copyright (C) 2021 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2019
+# Sushan Wu <ss.wu@eliteu.com.cn>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  wiki.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)
-# Copyright (C) 2020 edX
+# Copyright (C) 2021 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
 # li ying <code@eliteu.cn>, 2019
@@ -62,6 +68,9 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
 # Translators:
+# 嘉杰 李 <jj.li@eliteu.com.cn>, 2018
+# 微 李 <w.li@eliteu.com.cn>, 2018
+# fengri <173770922@qq.com>, 2019
 # li ying <code@eliteu.cn>, 2019
 #
 # #-#-#-#-#  eliteu.po (0.1a)  #-#-#-#-#
@@ -76,29 +85,29 @@
 #
 # #-#-#-#-#  django-theme.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/).
-# Copyright (C) 2020 EdX
+# Copyright (C) 2021 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2019
+# li ying <code@eliteu.cn>, 2021
 #
 # #-#-#-#-#  mako-theme.po (0.1a)  #-#-#-#-#
 # edX community translations have been downloaded from Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)
-# Copyright (C) 2020 edX
+# Copyright (C) 2021 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# EdX Team <info@edx.org>, 2020.
+# EdX Team <info@edx.org>, 2021.
 #
 # Translators:
-# li ying <code@eliteu.cn>, 2020
+# li ying <code@eliteu.cn>, 2021
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
-"POT-Creation-Date: 2020-01-10 17:58+0800\n"
-"PO-Revision-Date: 2019-06-19 06:25+0000\n"
-"Last-Translator: li ying <code@eliteu.cn>, 2020\n"
+"POT-Creation-Date: 2021-04-20 06:25+0000\n"
+"PO-Revision-Date: 2021-04-20 06:47+0000\n"
+"Last-Translator: li ying <code@eliteu.cn>, 2021\n"
 "Language-Team: Chinese (China) (https://www.transifex.com/e-ducation/teams/93939/zh_CN/)\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -216,11 +225,11 @@ msgstr "挂起"
 
 #: cms/envs/bok_choy.py lms/envs/bok_choy.py lms/envs/test.py
 msgid "édX"
-msgstr "édX"
+msgstr ""
 
 #: cms/envs/bok_choy.py lms/envs/bok_choy.py lms/envs/test.py
 msgid "Open édX Platform"
-msgstr "Open édX Platform"
+msgstr ""
 
 #: cms/templates/admin/base_site.html lms/templates/admin/base_site.html
 msgid "Django site admin"
@@ -442,7 +451,7 @@ msgstr "用户资料"
 
 #: common/djangoapps/student/admin.py
 msgid "Account recovery"
-msgstr "验证账户"
+msgstr "帐户恢复"
 
 #. #-#-#-#-#  django-partial.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the login form
@@ -783,11 +792,11 @@ msgstr "此用户属性值。"
 
 #: common/djangoapps/student/models.py
 msgid "Secondary email address"
-msgstr "备选邮箱"
+msgstr "辅助邮箱地址"
 
 #: common/djangoapps/student/models.py
 msgid "Secondary email address to recover linked account."
-msgstr "用于恢复关联账号的备选邮箱。"
+msgstr "辅助电子邮件地址，用于恢复关联的帐户。"
 
 #: common/djangoapps/student/views/dashboard.py
 msgid " and "
@@ -968,11 +977,11 @@ msgstr "重置密码操作发生错误。请再尝试一次。"
 
 #: common/djangoapps/student/views/management.py
 msgid "Password creation unsuccessful"
-msgstr "密码设置不成功"
+msgstr "密码创建不成功"
 
 #: common/djangoapps/student/views/management.py
 msgid "Error in creating your password. Please try again."
-msgstr "密码设置发生错误。请再试一次。"
+msgstr "创建密码操作发生错误。请再尝试一次。"
 
 #: common/djangoapps/student/views/management.py
 #, python-brace-format
@@ -2607,7 +2616,7 @@ msgstr "配置来源列表"
 msgid ""
 "The selected proctoring provider, {proctoring_provider}, is not a valid "
 "provider. Please select from one of {available_providers}."
-msgstr "所选的处理提供程序{proctoring_provider}不是有效的提供程序。请从{available_providers}中选择。"
+msgstr ""
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "LTI Passports"
@@ -2690,7 +2699,7 @@ msgstr "显示计算器"
 msgid ""
 "Enter true or false. When true, students can see the calculator in the "
 "course."
-msgstr "输入true或false。当输入为true时，学生可以造课程中看到计算器。"
+msgstr "输入对或错。当输入为对时，学生可以造课程中看到计算器。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid ""
@@ -2774,7 +2783,7 @@ msgid ""
 "Enter true or false. If true, discussion categories and subcategories are "
 "sorted alphabetically. If false, they are sorted chronologically by creation"
 " date and time."
-msgstr "请输入true或false。如果为true，讨论类別和子类別会依字母排序。否则按时间顺序排序。"
+msgstr "请输入\"true\"或\"false\"。当输入\"true\"时，讨论类別和子类別会依字母排序。否则按时间顺序排序。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Announcement Date"
@@ -2815,7 +2824,7 @@ msgstr "手机端可见的课程"
 msgid ""
 "Enter true or false. If true, the course will be available to mobile "
 "devices."
-msgstr "请输入true或false，如果为true，这门课程将支持移动设备上学习"
+msgstr "请输入真或者假,如果为真,这门课程将支持移动设备上学习"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Video Upload Credentials"
@@ -2916,7 +2925,7 @@ msgstr "允许匿名讨论帖"
 msgid ""
 "Enter true or false. If true, students can create discussion posts that are "
 "anonymous to all users."
-msgstr "输入true或false。如果是true，学生可以匿名创建讨论的帖子。"
+msgstr "输入真或假。如果是真的，学生可以匿名创建讨论的帖子。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Allow Anonymous Discussion Posts to Peers"
@@ -3339,7 +3348,7 @@ msgstr "对有作弊嫌疑的考试创建Zendesk记录"
 msgid ""
 "Enter true or false. If this value is true, a Zendesk ticket will be created"
 " for suspicious attempts."
-msgstr "请输入true或false。如果输入true，那么会对有作弊嫌疑的考试创建Zendesk记录。"
+msgstr "输入“true”或“false”。如果输入“true”，那么会对有作弊嫌疑的考试创建Zendesk记录。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Enable Timed Exams"
@@ -3408,7 +3417,7 @@ msgstr "请设置课程教学细节。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Visibility For Unenrolled Learners"
-msgstr "未选课学员课程可见情况"
+msgstr "对于未选课用户的课程可见性"
 
 #. Translators: the quoted words 'private', 'public_outline', and 'public'
 #. must be left untranslated.  Leave them as English words.
@@ -3419,8 +3428,8 @@ msgid ""
 "enrolled students), 'public_outline' (allow access to course outline) and "
 "'public' (allow access to both outline and course content)."
 msgstr ""
-"定义未登记学员的访问权限。这可以设置为三个值之一： “private” （默认可见性，只允许在册学生使用）、“public_outline” "
-"（允许访问课程概述）和 “public”（允许访问概述和课程内容）。"
+"定义未登记学员的访问权限。这可以设置为三个值之一： 「private」 （默认可见性，只允许在册学生使用）、「public_outline」 "
+"（允许访问课程概述）和 「public」（允许访问概述和课程内容）。"
 
 #: common/lib/xmodule/xmodule/course_module.py
 msgid "Course Instructor"
@@ -3452,7 +3461,7 @@ msgstr "启用消息通知重点内容"
 msgid ""
 "Enter true or false. If true, any highlights associated with content in the "
 "course will be messaged to learners at their scheduled time."
-msgstr "请输入true或false，如果输入true，那么任何与课程内容有关的标亮内容都将会在学员的规定时间内被发送给学员。"
+msgstr "请输入“true”或“false”，如果输入“true”，那么任何与课程内容有关的标亮内容都将会在学员的规定时间内被发送给学员。"
 
 #: common/lib/xmodule/xmodule/course_module.py cms/templates/certificates.html
 #: cms/templates/group_configurations.html cms/templates/settings.html
@@ -3939,7 +3948,7 @@ msgstr "启用 LaTeX 编译器"
 msgid ""
 "Enter true or false. If true, you can use the LaTeX templates for HTML "
 "components and advanced Problem components."
-msgstr "请输入true或false，当输入为true时，您可以使用LaTeX编辑器，编辑HTML模块和问题模块。"
+msgstr "请输入 true 或者 false ，当输入为 true 时，您可以使用 LaTeX 编辑器，编辑 HTML 模块和问题模块。"
 
 #: common/lib/xmodule/xmodule/modulestore/inheritance.py
 msgid ""
@@ -4652,7 +4661,7 @@ msgstr "创建密码"
 msgid ""
 "You're receiving this e-mail because you requested to create a password for "
 "your user account at %(platform_name)s."
-msgstr "您收到此电子邮件是因为您在%(platform_name)s申请了账户密码创建"
+msgstr "您收到此电子邮件是因为您在 %(platform_name)s 申请了账户密码创建。"
 
 #: common/templates/student/edx_ace/accountrecovery/email/body.html
 #: common/templates/student/edx_ace/accountrecovery/email/body.txt
@@ -4684,7 +4693,7 @@ msgstr "%(platform_name)s 团队"
 #: common/templates/student/edx_ace/accountrecovery/email/subject.txt
 #, python-format
 msgid "Create password on %(platform_name)s"
-msgstr "%(platform_name)s设置密码"
+msgstr "%(platform_name)s创建密码"
 
 #: common/templates/student/edx_ace/emailchange/email/body.html
 msgid "Email Change"
@@ -4698,8 +4707,8 @@ msgid ""
 "%(platform_name)s account to %(new_email)s. If this is correct, please "
 "confirm your new secondary e-mail address by visiting:"
 msgstr ""
-"我们收到了您需要将您的%(platform_name)s账号关联的电子邮箱变更为 %(new_email)s "
-"的请求。如果该请求无误，请访问如下网页确认您的新电子邮件地址："
+"我们收到了您需要将%(platform_name)s 账号的辅助邮箱变更为 %(new_email)s "
+"的请求。如果该请求无误，请访问如下网页确认您的新辅助邮箱地址："
 
 #: common/templates/student/edx_ace/emailchange/email/body.html
 #: common/templates/student/edx_ace/emailchange/email/body.txt
@@ -4729,7 +4738,7 @@ msgstr ""
 #: common/templates/student/edx_ace/emailchange/email/subject.txt
 #, python-format
 msgid "Request to change %(platform_name)s account secondary e-mail"
-msgstr "变更%(platform_name)s账号电子邮箱的请求"
+msgstr "变更%(platform_name)s账号辅助邮件的请求"
 
 #: common/templates/student/edx_ace/emailchange/email/subject.txt
 #, python-format
@@ -4855,8 +4864,8 @@ msgid "Please check the syntax of your entry."
 msgstr "请检查您的条目的句法。"
 
 #: lms/djangoapps/branding/api.py
-msgid "Take free online courses at EliteMBA.cn"
-msgstr "在EliteMBA.cn上学习免费课程"
+msgid "Take free online courses at Elite A.I. Academy"
+msgstr "在英荔 AI 教育学院上学习免费课程"
 
 #. Translators: 'EdX', 'edX', and 'Open edX' are trademarks of 'edX Inc.'.
 #. Please do not translate any of these trademarks and company names.
@@ -4881,7 +4890,6 @@ msgstr "博客"
 
 #: lms/djangoapps/branding/api.py cms/templates/widgets/sock_links.html
 #: themes/edx.org/cms/templates/widgets/sock.html
-#: themes/elitemba-theme/lms/templates/footer.html
 #: themes/elitemba-theme/lms/templates/static_templates/contact.html
 #: themes/stanford-style/lms/templates/static_templates/about.html
 msgid "Contact Us"
@@ -4940,7 +4948,6 @@ msgstr "服务条款 & 荣誉准则"
 #: cms/templates/widgets/footer.html
 #: lms/templates/static_templates/privacy.html
 #: themes/edx.org/lms/templates/certificates/_accomplishment-footer.html
-#: themes/elitemba-theme/lms/templates/footer.html
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 #: themes/elitemba-theme/lms/templates/static_templates/privacy.html
 #: themes/elitemba-theme/lms/templates/static_templates/privacy_policy.html
@@ -5250,7 +5257,7 @@ msgstr "完成课程、测验及格，并荣获该{platform_name} {certificate_t
 msgid ""
 "{platform_name} acknowledges achievements through certificates, which are "
 "awarded for course activities that {platform_name} students complete."
-msgstr "{platform_name}借由证书承认已完成修习课程，该课之修课证书证明学生完成 {platform_name}课程活动。"
+msgstr "{platform_name} 借由证书承认已完成修习课程，该课之修课证书证明学生完成 {platform_name} 课程活动。"
 
 #. Translators:  'All rights reserved' is a legal term used in copyrighting to
 #. protect published content
@@ -6023,9 +6030,9 @@ msgstr "说明您以美金计算之家庭年收入。"
 
 #: lms/djangoapps/courseware/views/views.py
 msgid ""
-"I allow EliteMBA to use the information provided in this application (except"
-" for financial information) for EliteMBA marketing purposes."
-msgstr "我同意EliteMBA.cn使用此申请中所提供之资讯(除财务资讯)作为edX销售之目的。"
+"I allow Elite A.I. Academy to use the information provided in this "
+"application (except for financial information) for marketing purposes."
+msgstr "我同意英荔 AI 教育学院用此申请中所提供之资讯(除财务资讯)作为销售之目的。"
 
 #: lms/djangoapps/dashboard/git_import.py
 #, python-brace-format
@@ -6469,7 +6476,7 @@ msgid ""
 "A proctored exam attempt for {exam_name} in {course_name} by username: {student_username} was reviewed as {review_status} by the proctored exam review provider.\n"
 "Review link: {review_url}"
 msgstr ""
-"在{course_name}中的{exam_name}监考考试：由监考考试审核者审核用户名{student_username}为{review_status}\n"
+"在{course_name}中的{exam_name}监考考试：由监考考试审核者审核用户名{student_username}为{review_status} \n"
 "审核链接：{review_url}"
 
 #: lms/djangoapps/instructor/settings/common.py
@@ -7098,7 +7105,6 @@ msgstr "选课数据现已可通过{dashboard_link}查看。"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py
 #: themes/elitemba-theme/lms/templates/header/navbar-authenticated.html
-#: themes/elitemba-theme/lms/templates/header/navbar-not-authenticated.html
 msgid "Membership"
 msgstr "会员资格"
 
@@ -7666,6 +7672,28 @@ msgstr ""
 "被字典对映到的群组可以被显示在此区块中。关键字是群组设定id和数值是群组 ID的列表。假如没有关键字给群组设定或者群组 "
 "ID的集合是空的那么区块就会对所有公开。如果该区块是visible_to_staff_only则字段会被忽略。"
 
+#: lms/djangoapps/mobile_api/users/views.py
+msgid "操作成功"
+msgstr ""
+
+#: lms/djangoapps/mobile_api/users/views.py
+msgid "Username not specified."
+msgstr "用户名未指定"
+
+#: lms/djangoapps/mobile_api/users/views.py
+#: openedx/core/djangoapps/user_api/accounts/views.py
+#: openedx/core/djangoapps/user_authn/views/login.py
+msgid ""
+"Due to multiple login failures, the account is temporarily locked. Please "
+"try again after 15 minutes."
+msgstr "由于登录失败次数过多，该账号暂时被锁定，请于15分钟后再次尝试登录。"
+
+#: lms/djangoapps/mobile_api/users/views.py
+#: openedx/core/djangoapps/user_api/accounts/views.py
+#: lms/templates/provider_login.html
+msgid "Email or password is incorrect."
+msgstr "邮箱或密码错误。"
+
 #: lms/djangoapps/mobile_api/views.py
 msgid "Missing requested parameter 'platform'"
 msgstr "缺少必要参数 ‘平台’"
@@ -7881,7 +7909,6 @@ msgid "Billing Address"
 msgstr "帐单地址"
 
 #: lms/djangoapps/shoppingcart/pdf.py openedx/core/djangoapps/user_api/api.py
-#: themes/elitemba-theme/lms/templates/footer.html
 #: themes/elitemba-theme/lms/templates/static_templates/disclaimer.html
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "Disclaimer"
@@ -8763,7 +8790,7 @@ msgstr "查看{username}的身份验证照片"
 
 #: lms/envs/common.py
 msgid "Your Platform Name Here"
-msgstr "这里是平台名称"
+msgstr "您的平台名称"
 
 #: lms/envs/common.py
 msgid "Your Platform Description Here"
@@ -8926,14 +8953,16 @@ msgstr "未注册教授"
 msgid "Credit"
 msgstr "学分"
 
-#: lms/envs/eliteu_common.py membership/templates/membership/card.html
-#: membership/templates/membership/index.html
-#: themes/elitemba-theme/lms/templates/footer.html
+#. #-#-#-#-#  mako-theme.po (0.1a)  #-#-#-#-#
+#. Translators: 'Open edX' is a registered trademark, please keep this
+#. untranslated. See http://open.edx.org for more information.
+#: lms/envs/eliteu_common.py
+#: themes/elitemba-theme/lms/templates/index_overlay.html
 #: themes/elitemba-theme/lms/templates/certificates/verify.html
 #: themes/elitemba-theme/lms/templates/provider/authorize.html
 #: themes/elitemba-theme/lms/templates/static_templates/about.html
-msgid "EliteMBA"
-msgstr "英荔商学院"
+msgid "Elite A.I. Academy"
+msgstr "英荔 AI 教育学院"
 
 #: lms/envs/eliteu_common.py
 msgid "Certificate"
@@ -9198,7 +9227,7 @@ msgstr "您已从课程%(course_name)s中被移除。"
 msgid ""
 "You have been unenrolled from the course %(course_name)s by a member of the "
 "course staff. Please disregard the invitation previously sent."
-msgstr "您已被课程工作人员从 %(course_name)s课程移除。请忽略之前向您发出的所有请求。"
+msgstr "您已被课程工作人员从 %(course_name)s课程移除。请忽略先前向您发出的所有请求。"
 
 #: lms/templates/instructor/edx_ace/allowedunenroll/email/body.txt
 #: themes/elitemba-theme/lms/templates/instructor/edx_ace/allowedunenroll/email/body.txt
@@ -10128,7 +10157,7 @@ msgstr "对目录服务的单个请求的最大记录数量，表现形式为分
 
 #: openedx/core/djangoapps/config_model_utils/models.py
 msgid "Enabled"
-msgstr "已启用"
+msgstr "启用"
 
 #: openedx/core/djangoapps/config_model_utils/models.py
 msgid "Configuration may not be specified at more than one level at once."
@@ -10910,18 +10939,6 @@ msgid ""
 msgstr "请提供有效的用户名或包含“”的URL"
 
 #: openedx/core/djangoapps/user_api/accounts/views.py
-#: openedx/core/djangoapps/user_authn/views/login.py
-msgid ""
-"Due to multiple login failures, the account is temporarily locked. Please "
-"try again after 15 minutes."
-msgstr "由于登录失败次数过多，该账号暂时被锁定，请于15分钟后再次尝试登录。"
-
-#: openedx/core/djangoapps/user_api/accounts/views.py
-#: lms/templates/provider_login.html
-msgid "Email or password is incorrect."
-msgstr "邮箱或密码错误。"
-
-#: openedx/core/djangoapps/user_api/accounts/views.py
 msgid "Verification failed"
 msgstr "验证失败"
 
@@ -10979,14 +10996,14 @@ msgstr "您在{platform_name}上注册的邮箱"
 #. form meant to hold the user's email address.
 #: openedx/core/djangoapps/user_api/api.py
 msgid "Secondary email"
-msgstr "备选邮箱"
+msgstr "辅助邮箱"
 
 #: openedx/core/djangoapps/user_api/api.py
 #, python-brace-format
 msgid ""
 "Secondary email address you registered with {platform_name} using account "
 "settings page"
-msgstr "使用帐户设置页面在{platform_name}注册的辅助电子邮箱地址"
+msgstr "您在 {platform_name} 用户资料页使用的辅助邮箱"
 
 #. Translators: This label appears above a field on the login form
 #. meant to hold the user's email address.
@@ -11097,7 +11114,7 @@ msgstr "您必须同意接受{platform_name}的{terms_of_service}"
 msgid ""
 "Account can only be created after you agree to our User Agreement, "
 "Disclaimer and Privacy Policy."
-msgstr "只有同意遵守英荔商学院的用户协议、免责声明和隐私政策，才能创建账号。"
+msgstr "只有在您同意我们的用户协议，免责声明和隐私政策后，才能创建帐户。"
 
 #: openedx/core/djangoapps/user_api/api.py
 #, python-brace-format
@@ -11108,10 +11125,9 @@ msgid ""
 "{disclaimer_link_start}{disclaimer}{disclaimer_link_end}                   "
 "and {privacy_policy_link_start}Privacy Policy{privacy_policy_link_end}."
 msgstr ""
-"勾选即表示同意遵守英荔商学院的{user_agreement_link_start}{user_agreement}{user_agreement_link_end}、{disclaimer_link_start}{disclaimer}{disclaimer_link_end}和{privacy_policy_link_start}隐私政策{privacy_policy_link_end}"
+"注册即表示同意遵守英荔商学院的{user_agreement_link_start}{user_agreement}{user_agreement_link_end}、{disclaimer_link_start}{disclaimer}{disclaimer_link_end}和{privacy_policy_link_start}隐私政策{privacy_policy_link_end}"
 
 #: openedx/core/djangoapps/user_api/api.py
-#: themes/elitemba-theme/lms/templates/footer.html
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 #: themes/elitemba-theme/lms/templates/static_templates/user_agreement.html
 msgid "User Agreement"
@@ -11260,7 +11276,7 @@ msgstr ""
 msgid ""
 "If you don't have an {platform_name} account yet, click "
 "{register_label_strong} at the top of the page."
-msgstr "如果您没有{platform_name}，请点击页面上方的{register_label_strong}按钮。"
+msgstr "如果您还没有{platform_name}上的帐户，请点击页面顶部的{register_label_strong}。"
 
 #: openedx/core/djangoapps/user_authn/views/login.py
 #: lms/templates/register-form.html
@@ -11428,8 +11444,6 @@ msgid ""
 " for the org that the course is in, then the more specific context overrides"
 " the more general context."
 msgstr ""
-"这些选项规定了启用课程持续时间限制的场景。如果未设置任何值，则配置将全局应用。 如果设置了单个值，则配置将应用于该场景中的所有课程。 "
-"一次最多只能设置一个值。<br>如果课程适用于多个场景（例如，如果课程有自身特定的配置，并且课程所在的组织也有特定配置，则更具体化的场景会覆盖通用场景。"
 
 #: openedx/features/content_type_gating/admin.py
 #: openedx/features/course_duration_limits/admin.py
@@ -11439,8 +11453,8 @@ msgid ""
 "For example, if \"Enabled\" is left as \"Unknown\" in the course context, "
 "then that course will be Enabled only if the org that it is in is Enabled."
 msgstr ""
-"如果这些值中的任何一个为空或“未知”，则运行时的值将恢复到下一个最具体化场景应用的值。 "
-"例如，如果在课程场景中“已启用”被保留为“未知”，则仅当其所在的组织已启用时，该课程才会启用。"
+"如果这些值中的任何一个为空或「未知」，则运行时的值将恢复到下一个最具体化场景应用的值。 "
+"例如，如果在课程场景中「已启用」被保留为「未知」，则仅当其所在的组织已启用时，该课程才会启用。"
 
 #: openedx/features/content_type_gating/models.py
 #: openedx/features/course_duration_limits/models.py
@@ -11453,22 +11467,22 @@ msgstr "启用至"
 msgid ""
 "If the configuration is Enabled, then all enrollments created after this "
 "date and time (UTC) will be affected."
-msgstr "如果配置为“已启用”，则在此日期和时间（世界标准时间UTC）之后创建的所有注册都将受到影响。"
+msgstr ""
 
 #: openedx/features/content_type_gating/models.py
 msgid "Studio Override Enabled"
-msgstr "已启用覆盖Studio功能"
+msgstr "已启用覆盖 Studio 功能"
 
 #: openedx/features/content_type_gating/models.py
 msgid ""
 "Allow Feature Based Enrollment visibility to be overriden on a per-component"
 " basis in Studio."
-msgstr "允许在Studio中每个基础组件覆盖基于功能的选课可见性。"
+msgstr "允许在 Studio 中每个基础组件覆盖基于功能的选课可见性。"
 
 #: openedx/features/content_type_gating/models.py
 #: openedx/features/course_duration_limits/models.py
 msgid "enabled_as_of must be set when enabled is True"
-msgstr "当enabled为True时，必须设置enabled_as_of"
+msgstr "当 enabled 为 True 时，必须设置 enabled_as_of"
 
 #: openedx/features/content_type_gating/partitions.py
 msgid "Feature-based Enrollments"
@@ -11498,7 +11512,7 @@ msgstr "分级评估可用于已经过身份认证的跟踪学员。"
 
 #: openedx/features/content_type_gating/templates/content_type_gating/access_denied_message.html
 msgid "Upgrade to unlock"
-msgstr "升级到解锁"
+msgstr "升级解锁"
 
 #: openedx/features/course_duration_limits/access.py
 #, python-brace-format
@@ -11860,12 +11874,12 @@ msgstr "{filename}文件超过{maximum_size_in_megabytes}。"
 
 #: cms/djangoapps/contentstore/views/certificates.py
 msgid "must have name of the certificate"
-msgstr "证书必有有名称"
+msgstr "证书必须有名称"
 
 #: cms/djangoapps/contentstore/views/certificates.py
 #, python-brace-format
 msgid "Certificate dict {0} missing value key '{1}'"
-msgstr "证书字典{0}确实数值'{1}'"
+msgstr "证书字典{0}缺失数值'{1}'"
 
 #: cms/djangoapps/contentstore/views/certificates.py
 #, python-brace-format
@@ -12339,11 +12353,11 @@ msgstr "“{name}”字段的格式不正确。{detailed_message}"
 
 #: cms/envs/bok_choy.py cms/envs/test.py
 msgid "Your Platform 𝓢𝓽𝓾𝓭𝓲𝓸"
-msgstr "您的平台𝓢𝓽𝓾𝓭𝓲𝓸"
+msgstr ""
 
 #: cms/envs/bok_choy.py cms/envs/test.py
 msgid "𝓢𝓽𝓾𝓭𝓲𝓸"
-msgstr "𝓢𝓽𝓾𝓭𝓲𝓸"
+msgstr ""
 
 #: cms/envs/common.py
 msgid "Your Platform Studio"
@@ -12434,7 +12448,7 @@ msgstr "高级设置"
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
 msgid "Organization"
-msgstr "组织"
+msgstr "机构"
 
 #: cms/templates/course-create-rerun.html cms/templates/index.html
 #: cms/templates/settings.html lms/templates/courseware/course_about.html
@@ -12447,7 +12461,7 @@ msgstr "课程代码"
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
 msgid "Course Run"
-msgstr "课程"
+msgstr "开课时间"
 
 #: cms/templates/course_outline.html
 #: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
@@ -12523,7 +12537,7 @@ msgstr "注册"
 #: cms/templates/register.html
 #: themes/elitemba-theme/cms/templates/register.html
 msgid "Sign Up for {studio_name}"
-msgstr "注册{studio_name}"
+msgstr "注册 {studio_name}"
 
 #: cms/templates/register.html
 #: themes/elitemba-theme/cms/templates/register.html
@@ -12729,12 +12743,12 @@ msgstr "最低分"
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
 msgid "Successful Proctored Exam"
-msgstr "成功设置考试监考"
+msgstr "成功的监考考试"
 
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
 msgid "Proctored Exam {number}"
-msgstr "监考考试{number}"
+msgstr "监考考试 {number}"
 
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
@@ -12925,7 +12939,7 @@ msgstr "显示于课程详情页面，不超过50个字符。"
 #: cms/templates/settings.html lms/templates/courseware/program_marketing.html
 #: themes/elitemba-theme/cms/templates/settings.html
 msgid "Course Description"
-msgstr "课程简介"
+msgstr "课程描述"
 
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
@@ -12976,7 +12990,7 @@ msgstr "{a_link_start}您课程摘要页面{a_link_end}的自定义工具栏内�
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
 msgid "Course Card Image"
-msgstr "课程卡图片"
+msgstr "课程图片"
 
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
@@ -12990,7 +13004,7 @@ msgstr "您可以管理此图片和其他所有{a_link_start}上传的文件和�
 msgid ""
 "Your course currently does not have an image. Please upload one (JPEG or PNG"
 " format, and minimum suggested dimensions are 375px wide by 200px tall)"
-msgstr "您的课程目前没有图片。请上传一张（JPEG或PNG格式，最小建议大小为375像素宽、200像素高）"
+msgstr "您的课程目前没有图片。请上传一张图片（JPEG或PNG格式，最小建议大小为375像素宽、200像素高）"
 
 #. Translators: This is the placeholder text for a field that requests the URL
 #. for a course image
@@ -13009,7 +13023,7 @@ msgstr "请为您的课程图片提供一个有效的路径和名字（注意：
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
 msgid "Upload Course Card Image"
-msgstr "上传课程卡图片"
+msgstr "上传课程图片"
 
 #: cms/templates/settings.html
 #: themes/elitemba-theme/cms/templates/settings.html
@@ -14415,11 +14429,11 @@ msgstr "在我们的常见问题解答列表中，您可以找到大多数问题
 
 #: lms/templates/register.html
 msgid "Register for {platform_name}"
-msgstr "{platform_name} 注册"
+msgstr "{platform_name}注册"
 
 #: lms/templates/register.html
 msgid "Create My {platform_name} Account"
-msgstr "创建我的 {platform_name} 账号"
+msgstr "创建我的{platform_name}账号"
 
 #: lms/templates/register.html
 msgid "Welcome!"
@@ -14442,7 +14456,7 @@ msgstr ""
 
 #: lms/templates/secondary_email_change_failed.html
 msgid "Secondary e-mail change failed"
-msgstr "辅助邮箱变更失败"
+msgstr "辅助邮箱更改失败！"
 
 #: lms/templates/secondary_email_change_failed.html
 msgid "We were unable to activate your secondary email {secondary_email}"
@@ -14450,13 +14464,13 @@ msgstr "我们无法激活您的辅助邮箱{secondary_email}"
 
 #: lms/templates/secondary_email_change_successful.html
 msgid "Secondary e-mail change successful!"
-msgstr "辅助邮箱变更成功！"
+msgstr "辅助邮箱更改成功！"
 
 #: lms/templates/secondary_email_change_successful.html
 msgid ""
 "Your secondary email has been activated. Please visit "
 "{link_start}dashboard{link_end} for courses."
-msgstr "您的辅助电子邮件已激活。请访问{link_start}面板{link_end}查看课程。"
+msgstr "您已经选修了这门课程，请前往您的{link_start}课程面板{link_end}查看该课程。"
 
 #: lms/templates/seq_module.html
 msgid "Important!"
@@ -14913,7 +14927,7 @@ msgstr "创建您的 {platform_name} 密码"
 
 #: lms/templates/account_recovery/password_create_confirm.html
 msgid "Invalid Password Create Link"
-msgstr "无效的密码设置链接"
+msgstr "无效的密码创建链接"
 
 #: lms/templates/api_admin/api_access_request_form.html
 msgid "API Access Request"
@@ -16033,7 +16047,7 @@ msgstr "如果所有信息正确但问题仍然存在，请联系技术支持团
 
 #: lms/templates/certificates/valid.html
 msgid "About edX Certificates"
-msgstr "关于edX认证证书"
+msgstr "关于edX证书"
 
 #: lms/templates/commerce/checkout_cancel.html
 msgid "Checkout Cancelled"
@@ -16555,7 +16569,7 @@ msgstr "您关注的讨论帖的更新情况"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "Purchase the Program ("
-msgstr "购买系列 ("
+msgstr "选购计划 ("
 
 #: lms/templates/courseware/program_marketing.html
 #: openedx/features/journals/templates/journals/bundle_about.html
@@ -16564,7 +16578,7 @@ msgstr "原价"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "{currency}{oldPrice}"
-msgstr "{currency}{oldPrice}"
+msgstr "{currencySymbol}{oldPrice}"
 
 #: lms/templates/courseware/program_marketing.html
 #: openedx/features/journals/templates/journals/bundle_about.html
@@ -16573,7 +16587,7 @@ msgstr "折扣价"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "{currency}{newPrice})"
-msgstr "{currency}{newPrice}）"
+msgstr "{currency}{newPrice})"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "Start Learning"
@@ -16616,7 +16630,7 @@ msgstr "您将学到"
 #: lms/templates/courseware/program_marketing.html
 msgctxt "Program"
 msgid "Length"
-msgstr "预计周数"
+msgstr ""
 
 #: lms/templates/courseware/program_marketing.html
 msgid "{weeks_to_complete} weeks per course"
@@ -16653,11 +16667,11 @@ msgstr "价格 ({currencyCode})"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "{currency}{newPrice}{htmlEnd} for entire program"
-msgstr "整个系列 {currency}{newPrice}{htmlEnd} "
+msgstr "整个系列课程的价格 {currency}{newPrice}{htmlEnd}"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "You save "
-msgstr "您已省下"
+msgstr "保存"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "{discount_value}"
@@ -16665,7 +16679,7 @@ msgstr "{discount_value}"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "{currency}{full_program_price} for entire program"
-msgstr "整个系列{currency}{full_program_price}"
+msgstr "整个系列课程的价格 {currency}{full_program_price}"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "Courses in the {}"
@@ -16678,7 +16692,7 @@ msgstr "开始 {}"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "Enroll Now"
-msgstr "现在加入"
+msgstr "现在选课"
 
 #: lms/templates/courseware/program_marketing.html
 msgid "Not Currently Available"
@@ -17210,7 +17224,7 @@ msgstr "您已提交重新认证信息，认证完成后将会在您面板中显
 
 #: lms/templates/dashboard/_dashboard_course_listing.html
 msgid "You have successfully verified your ID with edX"
-msgstr "您已经成功向edX验证了您的身份！"
+msgstr "您已经与 edx 成功验证了您的 ID！"
 
 #: lms/templates/dashboard/_dashboard_course_listing.html
 #: themes/elitemba-theme/lms/templates/dashboard/_dashboard_course_listing.html
@@ -17236,7 +17250,7 @@ msgstr "您当前认证会在{days}天后过期，立即使用网络摄像头和
 msgid ""
 "Pursue a {cert_name_long} to highlight the knowledge and skills you gain in "
 "this course."
-msgstr "获取一个{cert_name_long}来突显您在此课程中获得的知识和技能。"
+msgstr "获取一个 {cert_name_long} 来突显您在此课程中获得的知识和技能。"
 
 #: lms/templates/dashboard/_dashboard_course_listing.html
 #: themes/elitemba-theme/lms/templates/dashboard/_dashboard_course_listing.html
@@ -17406,7 +17420,7 @@ msgstr "无法关联账号"
 msgid ""
 "The {provider_name} account you selected is already linked to another "
 "{platform_name} account."
-msgstr "您选择的{provider_name}账号已经和{platform_name}账号相关联。"
+msgstr "您选择的 {provider_name}账号已经和{platform_name}账号相关联。"
 
 #: lms/templates/dashboard/_entitlement_reason_survey.html
 #: lms/templates/dashboard/_reason_survey.html
@@ -17656,7 +17670,7 @@ msgstr "享受您在{platform_name}上的学习之旅。"
 msgid ""
 "If you need help, please use our web form at {support_url} or email "
 "{support_email}."
-msgstr "如需帮助，请访问我们的网站{support_url} 或发邮件至{support_email} 。"
+msgstr "如需帮助，请访问我们的网站 {support_url} 或发邮件至 {support_email} 。"
 
 #: lms/templates/emails/activation_email.txt
 #: themes/elitemba-theme/lms/templates/emails/activation_email.txt
@@ -17864,11 +17878,11 @@ msgstr "您的照片(多张)："
 
 #: lms/templates/emails/failed_verification_email.txt
 msgid "The photo of you:"
-msgstr "您的照片："
+msgstr "你的照片："
 
 #: lms/templates/emails/failed_verification_email.txt
 msgid "The photo of your ID:"
-msgstr "拍摄一张您身份证件的照片"
+msgstr "你证件ID的图片："
 
 #: lms/templates/emails/failed_verification_email.txt
 msgid "Other Reasons:"
@@ -17881,7 +17895,7 @@ msgstr "重新认证: {reverify_url}"
 
 #: lms/templates/emails/failed_verification_email.txt
 msgid "ID Verification FAQ: {faq_url}"
-msgstr "身份验证 FAQ：{faq_url}"
+msgstr "身份ID验证FAQ：{faq_url}"
 
 #: lms/templates/emails/failed_verification_email.txt
 #: lms/templates/emails/order_confirmation_email.txt
@@ -18231,7 +18245,7 @@ msgid ""
 "If your application is approved, we'll give you instructions for verifying "
 "your identity on edx.org so you can start working toward completing your edX"
 " course."
-msgstr "如果您的申请被批准，我们将为您提供在 edx.org 上验证您的身份的相关说明，以便您可以开始着手完成您的 edX 课程。"
+msgstr "如果您的申请被批准，我们将为您提供在 edx.org 上验证您的身份的相关说明，以便您可以开始着手完成您的 edx 课程。"
 
 #: lms/templates/financial-assistance/financial-assistance.html
 msgid ""
@@ -18630,7 +18644,7 @@ msgstr "点击生成一个CSV文件，列出有资格选修此课但还未选修
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html
 msgid "Download a CSV of learners who can enroll"
-msgstr "下载一个列出有资格选修的学生名单的CSV文件"
+msgstr "下载有选修资格的学生名单 CSV文件"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html
 msgid ""
@@ -19953,7 +19967,7 @@ msgstr "我的文章"
 
 #: lms/templates/learner_dashboard/program_details.html
 msgid "Program Details"
-msgstr "系列详情"
+msgstr "项目详情"
 
 #: lms/templates/learner_dashboard/text-me-fragment.html
 msgid "Get the {platform_name} Mobile App!"
@@ -20736,7 +20750,7 @@ msgstr "学生支持：选课"
 
 #: lms/templates/support/feature_based_enrollments.html
 msgid "Student Support: Feature Based Enrollments"
-msgstr "学生支持：基于功能的注册"
+msgstr "学生支持：选课"
 
 #: lms/templates/support/feature_based_enrollments.html
 msgid "Is Enabled"
@@ -20744,7 +20758,7 @@ msgstr "已启用"
 
 #: lms/templates/support/feature_based_enrollments.html
 msgid "No results found"
-msgstr "未找到结果"
+msgstr "没有结果。"
 
 #: lms/templates/support/manage_user.html
 msgid "Student Support: Manage User"
@@ -21396,7 +21410,7 @@ msgstr "当因课程正式名称过长而不易展示在证书上时，可使用
 msgid ""
 "For verified certificates, specify between one and four signatories and "
 "upload the associated images."
-msgstr "对于验证的证书，指定1到4个簽署国，并上传了相关图片。"
+msgstr "对于验证的证书，指定1到4个签名者，并上传相关图片。"
 
 #: cms/templates/certificates.html
 msgid ""
@@ -21498,7 +21512,7 @@ msgstr "添加组件"
 msgid ""
 "Select a component type under {strong_start}Add New Component{strong_end}. "
 "Then select a template."
-msgstr "选择一个组件类型在{strong_start}之下，并新增新的组件{strong_end}。然后选择一个範本。"
+msgstr "选择一个组件类型在{strong_start}之下，并新增新的组件{strong_end}。然后选择一个范本。"
 
 #: cms/templates/container.html
 msgid ""
@@ -21698,7 +21712,7 @@ msgid ""
 "Use course updates to notify students of important dates or exams, highlight"
 " particular discussions in the forums, announce schedule changes, and "
 "respond to student questions. You add or edit updates in HTML."
-msgstr "使用课程更新来通知学生重要的日期或者考试，高亮显示论坛中的特别讨论，发布进度变更，以及回复学生问题。您可以用HTML来编辑更新。"
+msgstr "使用课程更新来通知学生重要的日期或者考试，突出显示论坛中的讨论，发布进度变更，以及回复学生问题。您可以用HTML来编辑更新。"
 
 #: cms/templates/course_outline.html
 msgid ""
@@ -23270,9 +23284,7 @@ msgstr "管理员是课程团队成员中可以添加和移除其他课程团队
 msgid ""
 "All course team members can access content in Studio, the LMS, and Insights,"
 " but are not automatically enrolled in the course."
-msgstr ""
-"All course team members can access content in Studio, the LMS, and Insights,"
-" but are not automatically enrolled in the course."
+msgstr "所有课程团队成员都可以访问Studio、LMS和Insights中的内容，但不会自动注册该课程。"
 
 #: cms/templates/manage_users.html
 msgid "Transferring Ownership"
@@ -23346,7 +23358,7 @@ msgstr "知识库管理员具有完全的编辑权限，也可以添加和修改
 
 #: cms/templates/settings.html
 msgid "Contact your edX partner manager to update these settings."
-msgstr "联系您的edX合作伙伴以更新这些设置项。"
+msgstr "联系您的edX合作经理以更新这些设置项。"
 
 #: cms/templates/settings_advanced.html
 msgid "Your policy changes have been saved."
@@ -23536,7 +23548,7 @@ msgstr "课程视频设置"
 
 #: cms/templates/videos_index_pagination.html
 msgid "Changing.."
-msgstr "修改中..."
+msgstr "修改中……"
 
 #: cms/templates/videos_index_pagination.html
 msgid "Videos per page:"
@@ -25037,6 +25049,11 @@ msgid "VIP membership"
 msgstr "会员资格"
 
 #: membership/templates/membership/card.html
+#: membership/templates/membership/index.html
+msgid "EliteMBA"
+msgstr "英荔商学院"
+
+#: membership/templates/membership/card.html
 msgid "EliteMBA VIP Membership"
 msgstr "英荔商学院VIP会员"
 
@@ -25268,7 +25285,7 @@ msgstr "施建军 博士"
 
 #: membership/templates/membership/index.html
 msgid "Former President and Professor at UIBE"
-msgstr "原对外经济贸易大学校长、教授"
+msgstr "原对外经济贸易大学校长、<br/>教授"
 
 #: membership/templates/membership/index.html
 msgid ""
@@ -25430,13 +25447,12 @@ msgid "email address"
 msgstr "邮箱"
 
 msgid "English"
-msgstr "英语"
+msgstr "英文"
 
 msgid "Chinese"
 msgstr "中文"
 
 #: themes/elitemba-theme/lms/templates/ace_common/edx_ace/common/base_body.html
-#: themes/elitemba-theme/lms/templates/footer.html
 msgid ""
 "Guangdong Elite International Education & Technology Co., Ltd.    All Rights"
 " Reserved"
@@ -25465,18 +25481,17 @@ msgstr "您已被课程工作人员从 %(course_name)s课程移除。请忽略�
 #: themes/elitemba-theme/lms/templates/schedules/edx_ace/recurringnudge_day3/email/body.txt
 #, python-format
 msgid ""
-"Remember when you enrolled in %(course_name)s, and other courses on "
-"EliteMBA.cn? We do, and we’re glad to have you! Come see what everyone is "
+"Remember when you enrolled in %(course_name)s, and other courses on Elite "
+"A.I. Academy? We do, and we’re glad to have you! Come see what everyone is "
 "learning."
-msgstr ""
-"您还记得在EliteMBA.cn上报名了%(course_name)s和其他课程吗？很高兴您选择了我们的课程！赶紧来看看大家都在学习什么吧。"
+msgstr "您还记得在英荔 AI 教育学院上报名了%(course_name)s和其他课程吗？很高兴您选择了我们的课程！赶紧来看看大家都在学习什么吧。"
 
 #: themes/elitemba-theme/lms/templates/schedules/edx_ace/recurringnudge_day3/email/body.txt
 #, python-format
 msgid ""
-"Remember when you enrolled in %(course_name)s on EliteMBA.cn? We do, and "
-"we’re glad to have you! Come see what everyone is learning."
-msgstr "您还记得在EliteMBA.cn上报名了%(course_name)s课程吗？很高兴您选择了我们的课程！赶紧来看看大家都在学习什么吧。"
+"Remember when you enrolled in %(course_name)s on Elite A.I. Academy? We do, "
+"and we’re glad to have you! Come see what everyone is learning."
+msgstr "您还记得在英荔 AI 教育学院上报名了%(course_name)s课程吗？很高兴您选择了我们的课程！赶紧来看看大家都在学习什么吧。"
 
 #: themes/elitemba-theme/lms/templates/wiki/history.html
 msgid "anonymous (IP not logged)"
@@ -25486,7 +25501,7 @@ msgstr "匿名(IP未记录)"
 msgid ""
 "Access Course Staff Support on the Partner Portal to submit or review "
 "support tickets"
-msgstr "在合作伙伴网站上访问“课程人员支持”来提交或查看支持工作单"
+msgstr "在合作伙伴网站上访问「课程人员支持」来提交或查看支持工作单"
 
 #: themes/edx.org/cms/templates/widgets/sock.html
 msgid "edX Partner Portal"
@@ -25512,7 +25527,7 @@ msgstr "© 2012–{year} edX股份有限公司 "
 
 #: themes/edx.org/lms/templates/footer.html
 msgid "EdX, Open edX, and MicroMasters are registered trademarks of edX Inc. "
-msgstr "EdX、Open edX以及MicroMaster是edX股份有限公司的商标。"
+msgstr "EdX、Open edX 以及 MicroMaster 是 edX 股份有限公司的商标。"
 
 #: themes/edx.org/lms/templates/certificates/_about-accomplishments.html
 msgid "About edX Verified Certificates"
@@ -25551,12 +25566,12 @@ msgid ""
 "and family to get the word out about what you mastered in "
 "{accomplishment_course_title}."
 msgstr ""
-"您刻苦学习考取了{accomplishment_copy_course_org}的证书 {dash} "
-"与同事、朋友、家人分享吧，告诉大家您学习了{accomplishment_course_title}。"
+"您刻苦学习考取了{accomplishment_copy_course_org}的证书 "
+"{dash}，与同事、朋友、家人分享吧，告诉大家您学习了{accomplishment_course_title}。"
 
 #: themes/edx.org/lms/templates/certificates/_accomplishment-banner.html
 msgid "Share this certificate on Facebook (opens a new tab/window)"
-msgstr "分享此证书至Facebook（打开新标签页/窗口）"
+msgstr "分享此证书至 Facebook（打开新标签页/窗口）"
 
 #: themes/edx.org/lms/templates/certificates/_accomplishment-banner.html
 msgid "Tweet this certificate (opens a new tab/window)"
@@ -25604,7 +25619,7 @@ msgid ""
 "Audit this course for free and have access to course materials and "
 "discussions forums. {b_start}This track does not include graded "
 "assignments.{b_end}"
-msgstr "免费旁听该课程，并可访问课程材料和讨论论坛。 {b_start}此方法不包含评分作业。{b_end}"
+msgstr "免费旁听本课程，并可访问课程资料和讨论论坛。{b_start}此轨道不包括分级作业或无限制的课程访问.{b_end}。"
 
 #: themes/edx.org/lms/templates/course_modes/choose.html
 #: themes/elitemba-theme/lms/templates/course_modes/choose.html
@@ -25612,7 +25627,7 @@ msgid ""
 "Audit this course for free and have access to course materials and "
 "discussions forums. {b_start}This track does not include unlimited course "
 "access.{b_end}"
-msgstr "免费旁听本课程，并可访问课程资料和讨论论坛。{b_start}此轨道不包括无限制的课程访问。{b_end}"
+msgstr "免费旁听本课程，并可访问课程资料和讨论论坛。{b_start}此轨道不包括分级作业或无限制的课程访问.{b_end}。"
 
 #: themes/edx.org/lms/templates/header/navbar-authenticated.html
 msgid "Find Courses"
@@ -25623,8 +25638,9 @@ msgid "Schools & Partners"
 msgstr "学校 & 伙伴"
 
 #: themes/elitemba-theme/cms/templates/settings.html
-msgid "Contact your EliteMBA partner manager to update these settings."
-msgstr "联系您的EliteMBA合作经理以更新这些设置项。"
+msgid ""
+"Contact your Elite A.I. Academy partner manager to update these settings."
+msgstr "联系您的英荔 AI 教育学院合作经理以更新这些设置项。"
 
 #: themes/elitemba-theme/lms/templates/dashboard.html
 msgid "VIP Expiry Date"
@@ -25636,9 +25652,9 @@ msgstr "订阅期满，请及时充值"
 
 #: themes/elitemba-theme/lms/templates/dashboard.html
 msgid ""
-"Sorry, your EliteMBA VIP has expired. In order not to disrupt your learning "
-"schedule, please recharge in time."
-msgstr "您好，您购买的英荔商学院 VIP 会员已到期，为了不影响您的学习进度，请及时充值"
+"Sorry, your Elite A.I. Academy VIP has expired. In order not to disrupt your"
+" learning schedule, please recharge in time."
+msgstr "您好，您购买的英荔 AI 教育学院 VIP 会员已到期，为了不影响您的学习进度，请及时充值"
 
 #: themes/elitemba-theme/lms/templates/dashboard.html
 msgid "Renew VIP"
@@ -25647,62 +25663,6 @@ msgstr "会员续费"
 #: themes/elitemba-theme/lms/templates/footer.html
 msgid "Learn to Change · Change to Improve"
 msgstr "学则变 · 变则进"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-#: themes/elitemba-theme/lms/templates/static_templates/about.html
-msgid "About Us"
-msgstr "关于我们"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "Join Us"
-msgstr "加入我们"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "About Platform"
-msgstr "关于平台"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-#: themes/elitemba-theme/lms/templates/static_templates/manual.html
-msgid "Manual"
-msgstr "使用手册"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-#: themes/elitemba-theme/lms/templates/static_templates/help.html
-msgid "Help and Complaint"
-msgstr "帮助与投诉"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "Terms Description"
-msgstr "条款说明"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "Partners"
-msgstr "合作伙伴"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "NetEase Study"
-msgstr "网易云课堂"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "Tencent Classroom"
-msgstr "腾讯课堂"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "iQIYI Knowledge"
-msgstr "爱奇艺知识"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "Scan WeChat QR Code"
-msgstr "微信扫一扫"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid "to find out more"
-msgstr "关注名师开课动态"
-
-#: themes/elitemba-theme/lms/templates/footer.html
-msgid ""
-"edX and Open edX are registered trademarks of edX Inc. All Rights Reserved."
-msgstr "edX 和 Open edX 为 edX Inc. 的注册商标，版权所有。"
 
 #: themes/elitemba-theme/lms/templates/footer.html
 msgid "Bind Your Account to Your Mobile Number"
@@ -25739,14 +25699,8 @@ msgstr "绑定手机"
 #. Translators: 'Open edX' is a registered trademark, please keep this
 #. untranslated. See http://open.edx.org for more information.
 #: themes/elitemba-theme/lms/templates/index_overlay.html
-msgid "Learn to Change · Change to Improve —— EliteMBA"
-msgstr "学则变 · 变则进 —— 英荔商学院"
-
-#. Translators: 'Open edX' is a registered trademark, please keep this
-#. untranslated. See http://open.edx.org for more information.
-#: themes/elitemba-theme/lms/templates/index_overlay.html
-msgid "Enjoy high-value MBA curriculum with ￥99.84 monthly payment!"
-msgstr "月均99.84元，畅学高价值MBA课程！"
+msgid "Your final destination for A.I. creativity education support."
+msgstr "AI创意教育支持的最终目的地。"
 
 #: themes/elitemba-theme/lms/templates/problem.html
 msgid "Answers are displayed within the problem"
@@ -25765,8 +25719,8 @@ msgid "Verification Address:"
 msgstr "验证地址："
 
 #: themes/elitemba-theme/lms/templates/certificates/valid.html
-msgid "About EliteMBA Certificates"
-msgstr "关于EliteMBA证书"
+msgid "About Elite A.I. Academy Certificates"
+msgstr "关于英荔 AI 教育学院证书"
 
 #: themes/elitemba-theme/lms/templates/certificates/verify.html
 msgid "Trustworthy Certificate"
@@ -25812,15 +25766,15 @@ msgstr "选修此课程 {price}"
 #: themes/elitemba-theme/lms/templates/courseware/course_about.html
 msgctxt "Free Enroll Course"
 msgid "Enroll"
-msgstr "选修此课程"
+msgstr "选修"
 
 #: themes/elitemba-theme/lms/templates/courseware/course_about.html
 msgid "Enrolled"
-msgstr "已报名"
+msgstr "已选修"
 
 #: themes/elitemba-theme/lms/templates/courseware/course_about.html
 msgid "Free Enrollment for VIP"
-msgstr "VIP会员免费选修此课程"
+msgstr "VIP 会员免费选修此课程"
 
 #: themes/elitemba-theme/lms/templates/courseware/course_about.html
 msgctxt "CourseAbout"
@@ -25840,8 +25794,8 @@ msgstr "课程大纲"
 #: themes/elitemba-theme/lms/templates/courseware/course_about_sidebar_header.html
 msgid ""
 "A wonderful course is rare to find and must be shared! I'm taking {title} on"
-" EliteMBA. Check it out! {url}"
-msgstr "难得的优质好课绝不能独享，我正在学习英荔商学院的{title}，您也看看吧！{url}"
+" Elite A.I. Academy. Check it out! {url}"
+msgstr "难得的优质好课绝不能独享，我正在学习英荔 AI 教育学院的{title}，您也看看吧！{url}"
 
 #: themes/elitemba-theme/lms/templates/courseware/course_about_sidebar_header.html
 msgid "weibo"
@@ -25874,19 +25828,19 @@ msgid "Subscription Due"
 msgstr "订阅期满"
 
 #: themes/elitemba-theme/lms/templates/dashboard/_dashboard_course_listing.html
-msgid "EliteMBA has verified your identity!"
+msgid "Elite A.I. Academy has verified your identity!"
 msgstr "英荔已经成功验证了您的身份！"
 
 #: themes/elitemba-theme/lms/templates/dashboard/_dashboard_status_verification.html
 msgid ""
-"Your EliteMBA verification has been approved. Your verification is effective"
-" for one year after submission."
-msgstr "您的EliteMBA认证已通过，提交后一年内有效。"
+"Your Elite A.I. Academy verification has been approved. Your verification is"
+" effective for one year after submission."
+msgstr "您的英荔 AI 教育学院认证已通过，提交后一年内有效。"
 
 #: themes/elitemba-theme/lms/templates/dashboard/_dashboard_status_verification.html
 msgid ""
-"Your EliteMBA ID verification is pending. Your verification information has "
-"been submitted and will be reviewed shortly."
+"Your Elite A.I. Academy ID verification is pending. Your verification "
+"information has been submitted and will be reviewed shortly."
 msgstr "您的身份认证正在进行中，您的认证信息已提交，我们会尽快审查您的认证。"
 
 #: themes/elitemba-theme/lms/templates/elitemba/hmm.html
@@ -25910,41 +25864,50 @@ msgid "Review ID Verification Photos"
 msgstr "查看身份证件照片"
 
 #: themes/elitemba-theme/lms/templates/financial-assistance/financial-assistance.html
-msgid "Dear EliteMBA Learner,"
-msgstr "亲爱的 EliteMBA 学员："
+msgid "Dear Elite A.I. Academy Learner,"
+msgstr "亲爱的英荔 AI 教育学院学员："
 
 #: themes/elitemba-theme/lms/templates/financial-assistance/financial-assistance.html
 msgid ""
-"EliteMBA Financial Assistance is a program we created to give learners in "
-"all financial circumstances a chance to earn a Verified Certificate upon "
-"successful completion of an EliteMBA course."
-msgstr "EliteMBA 经济援助项目旨在让各种经济状况的学员都有一个在成功完成 EliteMBA 课程后获得验证证书的机会。"
+"Elite A.I. Academy Financial Assistance is a program we created to give "
+"learners in all financial circumstances a chance to earn a Verified "
+"Certificate upon successful completion of an Elite A.I. Academy course."
+msgstr "英荔 AI 教育学院经济援助项目旨在让各种经济状况的学员都有一个在成功完成英荔 AI 教育学院课程后获得验证证书的机会。"
 
 #: themes/elitemba-theme/lms/templates/financial-assistance/financial-assistance.html
 msgid ""
-"In order to be eligible for EliteMBA Financial Assistance, you must "
-"demonstrate that paying the Verified Certificate fee would cause you "
+"In order to be eligible for Elite A.I. Academy Financial Assistance, you "
+"must demonstrate that paying the Verified Certificate fee would cause you "
 "economic hardship. To apply, you will be asked to answer a few questions "
 "about why you are applying and how the Verified Certificate will benefit "
 "you."
 msgstr ""
-"要符合 EliteMBA "
-"经济援助的资格条件，您必须证明支付验证证书费用会导致您经济困难。为了进行申请，您可能会被要求回答一些关于您为何申请验证证书以及验证证书会给您带来哪些好处的问题。"
+"要符合英荔 AI "
+"教育学院经济援助的资格条件，您必须证明支付验证证书费用会导致您经济困难。为了进行申请，您可能会被要求回答一些关于您为何申请验证证书以及验证证书会给您带来哪些好处的问题。"
 
 #: themes/elitemba-theme/lms/templates/financial-assistance/financial-assistance.html
 msgid ""
 "If your application is approved, we'll give you instructions for verifying "
-"your identity on EliteMBA.cn so you can start working toward completing your"
-" EliteMBA course."
+"your identity on Elite A.I. Academy.cn so you can start working toward "
+"completing your Elite A.I. Academy course."
 msgstr ""
 "如果您的申请被批准，我们将为您提供在 EliteMBA.cn 上验证您的身份的相关说明，以便您可以开始着手完成您的 EliteMBA 课程。"
 
 #: themes/elitemba-theme/lms/templates/financial-assistance/financial-assistance.html
 msgid ""
-"EliteMBA is committed to making it possible for you to take high quality "
-"courses from leading institutions regardless of your financial situation, "
-"earn a Verified Certificate, and share your success with others."
-msgstr "无论您的经济状况如何，EliteMBA 都致力于让您从各领先机构获得高质量的课程，让您获得验证证书并与他人分享您的成功。"
+"Elite A.I. Academy is committed to making it possible for you to take high "
+"quality courses from leading institutions regardless of your financial "
+"situation, earn a Verified Certificate, and share your success with others."
+msgstr "无论您的经济状况如何，英荔 AI 教育学院都致力于让您从各领先机构获得高质量的课程，让您获得验证证书并与他人分享您的成功。"
+
+#: themes/elitemba-theme/lms/templates/header/navbar-authenticated.html
+#: themes/elitemba-theme/lms/templates/header/navbar-not-authenticated.html
+msgid "\\u9996\\u9875"
+msgstr ""
+
+#: themes/elitemba-theme/lms/templates/header/navbar-authenticated.html
+msgid "\\u52a0\\u5165\\u4f1a\\u5458"
+msgstr ""
 
 #: themes/elitemba-theme/lms/templates/header/navbar-authenticated.html
 #: themes/elitemba-theme/lms/templates/header/navbar-not-authenticated.html
@@ -25993,7 +25956,7 @@ msgstr "我们诚挚地向所有深耕于商业管理学科的精英教授、学
 
 #: themes/elitemba-theme/lms/templates/professors/index.html
 msgid "More"
-msgstr "详情"
+msgstr "更多"
 
 #: themes/elitemba-theme/lms/templates/registration/password_reset_confirm.html
 msgid ""
@@ -26005,29 +25968,33 @@ msgstr ""
 "并点击{start_strong}忘记密码{end_strong}。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/about.html
-msgid ""
-"EliteMBA (www.EliteMBA.cn) is a sub-brand of Guangdong Elite International "
-"Education & Technology Co., Ltd. focusing on the development of MBA online "
-"classroom."
-msgstr "英荔商学院（www.EliteMBA.cn）是广东英荔国际教育科技有限公司旗下的商业管理类互联网课堂。"
+msgid "About Us"
+msgstr "关于我们"
 
 #: themes/elitemba-theme/lms/templates/static_templates/about.html
 msgid ""
-"EliteMBA teams up with senior professors and experts in business management "
-"academics at home and abroad to design and produce high quality and "
-"knowledgeable systematic online courses. At the same time, we select and "
-"introduce high-quality foreign educational content to provide learners with "
-"a localized learning experience created by EliteMBA."
+"Elite A.I. Academy (edu.aimaker.space) is a sub-brand of Guangdong Elite "
+"International Education & Technology Co., Ltd. focusing on the development "
+"of MBA online classroom."
+msgstr "英荔 AI 教育学院（edu.aimaker.space）是广东英荔国际教育科技有限公司旗下的商业管理类互联网课堂。"
+
+#: themes/elitemba-theme/lms/templates/static_templates/about.html
+msgid ""
+"Elite A.I. Academy teams up with senior professors and experts in business "
+"management academics at home and abroad to design and produce high quality "
+"and knowledgeable systematic online courses. At the same time, we select and"
+" introduce high-quality foreign educational content to provide learners with"
+" a localized learning experience created by Elite A.I. Academy."
 msgstr ""
 "英荔与国内外商业管理学术界资深的教授和专家联手，精心设计并制作高质量且极具知识价值的体系化在线课程。同时，筛选并引进国外优质教育内容，向学习者提供经英荔团队打造后的本土化版本。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/about.html
 msgid ""
 "It is the common pursuit of educators to transfer knowledge to more learners"
-" as much as possible. EliteMBA expects to provide educators with more "
-"effective means of transmission and increase the reach of knowledge. Here, "
-"we would like to offer sincere invitations to experts and professors, and "
-"look forward to creating and introducing more high-quality curriculum "
+" as much as possible. Elite A.I. Academy expects to provide educators with "
+"more effective means of transmission and increase the reach of knowledge. "
+"Here, we would like to offer sincere invitations to experts and professors, "
+"and look forward to creating and introducing more high-quality curriculum "
 "resources, so that knowledge can generate more value in a diverse world. "
 msgstr ""
 "尽己所能地向更多学习者传递知识是教育者们的共同追求。英荔期望为教育者提供更有效的传递途径，增加知识的触及范围。在此，向各位专家、教授发出诚挚的开课邀请，期待创造、引入更多优质的课程资源，让知识在多元的世界产生更多元的价值。"
@@ -26050,9 +26017,9 @@ msgid ""
 "Mr. Cai Yuanpei said that education should guide the society, rather than "
 "follow it. Elite Education abandons the ideas of upholding the pursuit of "
 "society, and advocates learners' self-achievement and their ambition in "
-"leading the society. EliteMBA courses advocate, instead of the rote of "
-"knowledge input, the motivation for pursuing wisdom and solving practical "
-"problems."
+"leading the society. Elite A.I. Academy courses advocate, instead of the "
+"rote of knowledge input, the motivation for pursuing wisdom and solving "
+"practical problems."
 msgstr ""
 "教育家蔡元培先生说：“教育应指导社会，而不是追逐社会。”英荔摒弃追逐社会的模式，倡导学习者自我实现和引领社会的精神。英荔课堂没有生搬硬套的知识灌输，只有寻求智慧和解决实际问题的动力。"
 
@@ -26124,42 +26091,49 @@ msgstr "联系人：廖小姐"
 msgid "System Bugs"
 msgstr "系统漏洞"
 
+#: themes/elitemba-theme/lms/templates/static_templates/help.html
+msgid "Help and Complaint"
+msgstr "帮助与投诉"
+
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "Ⅰ. Terms of Service"
 msgstr "一、服务条款"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"The products and services of Elite Education (www.elitemba.cn)  are provided"
-" by Guangdong Elite International Education & Technology Co., Ltd "
-"(hereinafter referred to as \"EliteMBA\" or \"we\"). This User Agreement "
-"(hereinafter referred to as \"Agreement\") is applicable to EliteMBA "
-"websites, EliteMBA applications and other related products and services on "
-"computer/mobile phone/tablet or other devices. EliteMBA has the right to "
-"modify the terms hereof at any time. Upon the occurrence of any modification"
-" is applied, we would update the Agreement and modify effective date "
-"accordingly and the old version of the Agreement will be invalid and the new"
-" version will be in effect immediately upon its publishing on the page "
-"herein. Users shall regularly review the terms of service and check for "
-"upgrades. The action of continual usage of our services is an implied "
-"agreement on any updated version of Agreement that is in effect. In "
-"addition, when Users use other EliteMBA services (including but not limited "
-"to periodical marketing services other than basic services provided the "
-"website), the aforementioned user shall adhere to the guidelines and rules "
-"published by EliteMBA related to those services. All of the aforementioned "
-"guidelines and rules shall be considered as a part of this Agreement."
+"The products and services of Elite Education (edu.aimaker.space)  are "
+"provided by Guangdong Elite International Education & Technology Co., Ltd "
+"(hereinafter referred to as \"Elite A.I. Academy\" or \"we\"). This User "
+"Agreement (hereinafter referred to as \"Agreement\") is applicable to Elite "
+"A.I. Academy websites, Elite A.I. Academy applications and other related "
+"products and services on computer/mobile phone/tablet or other devices. "
+"Elite A.I. Academy has the right to modify the terms hereof at any time. "
+"Upon the occurrence of any modification is applied, we would update the "
+"Agreement and modify effective date accordingly and the old version of the "
+"Agreement will be invalid and the new version will be in effect immediately "
+"upon its publishing on the page herein. Users shall regularly review the "
+"terms of service and check for upgrades. The action of continual usage of "
+"our services is an implied agreement on any updated version of Agreement "
+"that is in effect. In addition, when Users use other Elite A.I. Academy "
+"services (including but not limited to periodical marketing services other "
+"than basic services provided the website), the aforementioned user shall "
+"adhere to the guidelines and rules published by Elite A.I. Academy related "
+"to those services. All of the aforementioned guidelines and rules shall be "
+"considered as a part of this Agreement."
 msgstr ""
-"英荔商学院（www.EliteMBA.cn）的产品及服务由广东英荔国际教育科技有限公司（以下简称“英荔”或“我们”）提供。本使用协议（以下简称“使用协议”）适用于英荔的网站、在计算机/手机/平板电脑或其他设备上使用的英荔的应用程序和其他产品及服务。使用协议的内容可由英荔不定期修改、变更。一旦变动产生，我们将随即于使用协议上公布并更新生效日期。修改后的使用协议一旦公布即有效代替原来的使用协议。您应定期查看以了解更新后的服务条款，若您继续使用我们的服务即构成您对本服务条款及其任何更新版本的同意。此外，当英荔用户使用英荔特殊服务（包括但不限于除网站基本服务外的其他具时效性的市场活动服务）时，英荔用户应遵守英荔随时公布的与该服务相关的指引和规则。前述所有的指引和规则，均构成本使用协议的一部分。"
+"英荔 AI "
+"教育学院（edu.aimaker.space）的产品及服务由广东英荔国际教育科技有限公司（以下简称“英荔”或“我们”）提供。本使用协议（以下简称“使用协议”）适用于英荔的网站、在计算机/手机/平板电脑或其他设备上使用的英荔的应用程序和其他产品及服务。使用协议的内容可由英荔不定期修改、变更。一旦变动产生，我们将随即于使用协议上公布并更新生效日期。修改后的使用协议一旦公布即有效代替原来的使用协议。您应定期查看以了解更新后的服务条款，若您继续使用我们的服务即构成您对本服务条款及其任何更新版本的同意。此外，当英荔用户使用英荔特殊服务（包括但不限于除网站基本服务外的其他具时效性的市场活动服务）时，英荔用户应遵守英荔随时公布的与该服务相关的指引和规则。前述所有的指引和规则，均构成本使用协议的一部分。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "You should read this User Agreement carefully before using the services "
-"provided by EliteMBA. If you do not agree to the User Agreement and/or "
-"modify it at any time, please stop using all services provided by EliteMBA "
-"immediately; once you use EliteMBA service, you are deemed to have "
-"understood and fully agreed to the contents of this agreement, including any"
-" changes made by EliteMBA to the User Agreement at any time, and become an "
-"EliteMBA User (hereinafter referred to as \"User\")."
+"provided by Elite A.I. Academy. If you do not agree to the User Agreement "
+"and/or modify it at any time, please stop using all services provided by "
+"Elite A.I. Academy immediately; once you use Elite A.I. Academy service, you"
+" are deemed to have understood and fully agreed to the contents of this "
+"agreement, including any changes made by Elite A.I. Academy to the User "
+"Agreement at any time, and become an Elite A.I. Academy User (hereinafter "
+"referred to as \"User\")."
 msgstr ""
 "您在使用英荔提供的各项服务之前，应仔细阅读本使用协议。如您不同意本使用协议及/或随时对其的修改，请立即停止使用英荔所提供的全部服务；您一旦使用英荔服务，即视为已了解并完全同意本使用协议各项内容，包括英荔对使用协议随时所做的任何修改，并成为英荔用户（以下简称“用户”）。"
 
@@ -26169,17 +26143,18 @@ msgstr "二、服务说明"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA currently offers users a range of course services (including but "
-"not limited to course videos, test questions, exams, course materials, notes"
-" and teaching assistant services). Except as otherwise explicitely expressed"
-" in this Agreement, any new features of the Service that are added or "
-"enhanced by EliteMBA, including new products introduced, are subject to the "
-"terms of this Agreement. The User understands and agrees that the Service is"
-" provided only in accordance with the current conditions and that EliteMBA "
-"is not responsible for any user information or personalization settings, "
-"such as timeliness, deletion, delivery errors, non-storage or any other "
-"issues. EliteMBA reserves the right to suspend any part of the Service for "
-"any maintenance, upgrade or other purpose without prior notice."
+"Elite A.I. Academy currently offers users a range of course services "
+"(including but not limited to course videos, test questions, exams, course "
+"materials, notes and teaching assistant services). Except as otherwise "
+"explicitely expressed in this Agreement, any new features of the Service "
+"that are added or enhanced by Elite A.I. Academy, including new products "
+"introduced, are subject to the terms of this Agreement. The User understands"
+" and agrees that the Service is provided only in accordance with the current"
+" conditions and that Elite A.I. Academy is not responsible for any user "
+"information or personalization settings, such as timeliness, deletion, "
+"delivery errors, non-storage or any other issues. Elite A.I. Academy "
+"reserves the right to suspend any part of the Service for any maintenance, "
+"upgrade or other purpose without prior notice."
 msgstr ""
 "英荔目前向用户提供英荔自主制作的一系列课程服务（包括但不限于课程视频、测验题目、考试、课程资料、笔记以及助教服务）。除非本使用协议另有其他明示规定，英荔增加或强化此服务的任何新功能，包括所推出的新产品，均受到本使用协议之规范。用户了解并同意，本服务仅依其当前所呈现的状况提供，对于任何用户信息或个人化设定之失效、删除、传递错误、未予储存或其他任何问题，英荔均不承担任何责任。英荔保留不经事先通知因维修保养、升级或其他目的而暂停本服务任何部分的权利。"
 
@@ -26200,11 +26175,11 @@ msgstr ""
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"At the same time, if EliteMBA has the reason to believe that any of the "
-"User's actions, including but not limited to any of the User's statements "
-"and other acts violates or may violate any of the provisions of national "
-"laws and regulations, EliteMBA may terminate to offer service to the User at"
-" any time without prior notice. "
+"At the same time, if Elite A.I. Academy has the reason to believe that any "
+"of the User's actions, including but not limited to any of the User's "
+"statements and other acts violates or may violate any of the provisions of "
+"national laws and regulations, Elite A.I. Academy may terminate to offer "
+"service to the User at any time without prior notice. "
 msgstr ""
 "同时，如果英荔有理由认为用户的任何行为，包括但不限于用户的任何言论和其他行为违反或可能违反国家法律和法规的任何规定，英荔可在任何时候不经任何事先通知终止向用户提供服务。"
 
@@ -26220,18 +26195,18 @@ msgid ""
 "account, Avatar and other materials updated in the future. If the User "
 "provides any material that is illegal, unethical, or that is deemed "
 "unsuitable for display on this website, or that has reason to suspect that "
-"the User's data is a program or malicious operation, EliteMBA has the right "
-"to suspend or terminate the User's account and refuse the User to use all or"
-" any part of the Service now and in the future. "
+"the User's data is a program or malicious operation, Elite A.I. Academy has "
+"the right to suspend or terminate the User's account and refuse the User to "
+"use all or any part of the Service now and in the future. "
 msgstr ""
 "为了能使用本服务，用户同意以下事项：依本服务提示填写正确的注册账号（邮箱地址及/或手机号）、密码，并确保今后更新的登录账号、头像等资料的有效性和合法性。若用户提供任何违法、不道德或英荔认为不适合在本网站上展示的资料，或者英荔有理由怀疑用户的资料属于程序或恶意操作，英荔有权暂停或终止用户的账号，并拒绝用户于现在和未来使用本服务之全部或任何部分。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA is not responsible for any registration of any user, including but "
-"not limited to the identification, verification of the authenticity, "
-"correctness, completeness, suitability and/or responsibility of any "
-"registration information."
+"Elite A.I. Academy is not responsible for any registration of any user, "
+"including but not limited to the identification, verification of the "
+"authenticity, correctness, completeness, suitability and/or responsibility "
+"of any registration information."
 msgstr ""
 "英荔无须对任何用户的任何登记资料承担任何责任，包括但不限于鉴别、核实任何登记资料的真实性、正确性、完整性、适用性及/或是否为最新资料的责任。"
 
@@ -26242,10 +26217,10 @@ msgstr "五、用户账号、密码及安全"
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "After completing the registration process for this service and successfully "
-"registered, the User can log in to the account of EliteMBA (hereinafter "
-"referred to as the \"account\") using their email address and/or mobile "
-"number and password. Users are responsible for protecting the security of "
-"their accounts."
+"registered, the User can log in to the account of Elite A.I. Academy "
+"(hereinafter referred to as the \"account\") using their email address "
+"and/or mobile number and password. Users are responsible for protecting the "
+"security of their accounts."
 msgstr ""
 "完成本服务的注册程序并成功注册之后，用户可使用其邮箱地址及/或手机号码和密码，登录到用户在英荔的账号（以下简称“账号”）。用户须承担保障自己账号安全的责任。"
 
@@ -26259,14 +26234,14 @@ msgstr "用户应对所有使用的密码及账号的活动负全部责任。用
 msgid ""
 "1. Upon the occurrence of noticing any unauthorized account activity or "
 "other security issue, User shall contact and notify E-ducation immediately;"
-msgstr "1. 用户的英荔账号遭到未获授权的使用，或者发生其他任何安全问题时，用户将立即通知英荔；"
+msgstr "1.  用户的英荔账号遭到未获授权的使用，或者发生其他任何安全问题时，用户将立即通知英荔；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "2. If the user does not keep his/her own account number and password, and "
-"therefore any loss or damage caused by the User, EliteMBA cannot and will "
-"not bear any responsibility;"
-msgstr "2. 如果用户未保管好自己的账号和密码，因此而产生的任何损失或损害，英荔无法也不承担任何责任；"
+"therefore any loss or damage caused by the User, Elite A.I. Academy cannot "
+"and will not bear any responsibility;"
+msgstr "2.  如果用户未保管好自己的账号和密码，因此而产生的任何损失或损害，英荔无法也不承担任何责任；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
@@ -26275,7 +26250,7 @@ msgid ""
 "Elite or any other third party due to the failure by the User in securing "
 "their own Account and password, the aforementioned User shall take full "
 "responsible."
-msgstr "3. 每个用户都要对其账号中的所有行为和事件负全责。如果用户未保管好自己的账号和密码而对用户、英荔或第三方造成的损害，用户将负全部责任。"
+msgstr "3.  每个用户都要对其账号中的所有行为和事件负全责。如果用户未保管好自己的账号和密码而对用户、英荔或第三方造成的损害，用户将负全部责任。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "VI. Privacy Policy of Elite Education "
@@ -26294,22 +26269,22 @@ msgstr "七、提供者之责任"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"In accordance with relevant laws and regulations, EliteMBA hereby notify all"
-" Users solemnly that, the Provider of any content released or sent either "
-"publicly or privately via Elite Education platform, including the publishing"
-" or uploading of any text, information, data, picture, graphic, video or "
-"other data (hereinafter referred to as \"Content\"), shall take full "
-"responsibility for the Content they released or sent. EliteMBA only provides"
-" storage space for Users, and cannot control the content transmitted through"
-" the server, therefore we shall hold no responsibility for the validity, "
-"integrity or quality of the Content. User shall be aware that there might be"
-" unpleasant, inappropriate or disturbing Content upon the usage of the "
-"service. In any case, EliteMBA shall hold no responsibility for any "
-"aforementioned Content, and shall reserve the right to cease the "
-"transmission of any of the aforementioned Content and take corresponding "
-"actions by law, including but not limited to partially or entirely suspend "
-"User from using this service, to keep relevant record and report to "
-"authorities concerned."
+"In accordance with relevant laws and regulations, Elite A.I. Academy hereby "
+"notify all Users solemnly that, the Provider of any content released or sent"
+" either publicly or privately via Elite Education platform, including the "
+"publishing or uploading of any text, information, data, picture, graphic, "
+"video or other data (hereinafter referred to as \"Content\"), shall take "
+"full responsibility for the Content they released or sent. Elite A.I. "
+"Academy only provides storage space for Users, and cannot control the "
+"content transmitted through the server, therefore we shall hold no "
+"responsibility for the validity, integrity or quality of the Content. User "
+"shall be aware that there might be unpleasant, inappropriate or disturbing "
+"Content upon the usage of the service. In any case, Elite A.I. Academy shall"
+" hold no responsibility for any aforementioned Content, and shall reserve "
+"the right to cease the transmission of any of the aforementioned Content and"
+" take corresponding actions by law, including but not limited to partially "
+"or entirely suspend User from using this service, to keep relevant record "
+"and report to authorities concerned."
 msgstr ""
 "根据有关法律法规，英荔在此郑重提醒用户注意，任何经由本服务而发布、上传的文字、资讯、资料、照片、图形、视讯、信息或其他资料（以下简称“内容”），无论系公开还是私下传送，均由内容提供者承担责任。英荔仅为用户提供内容存储空间，无法控制经由本服务传送之内容，因此不保证内容的正确性、完整性或品质。用户已预知使用本服务时，可能会接触到令人不快、不适当或令人厌恶之内容。在任何情况下，英荔均不为任何内容负责，但英荔有权依法停止传输任何前述内容并采取相应行动，包括但不限于暂停用户使用本服务的全部或部分，保存有关记录，并向有关机关报告。"
 
@@ -26327,7 +26302,7 @@ msgstr "用户同意将不会利用本服务进行任何违法或不正当的活
 msgid ""
 "1. Publish or otherwise transmit information that contains one of the "
 "following:"
-msgstr "1. 发布或以其他方式传送含有下列内容之一的信息："
+msgstr "1.  发布或以其他方式传送含有下列内容之一的信息："
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "Opposing to the basic principles established by the Constitution;"
@@ -26385,19 +26360,19 @@ msgstr "含有中国法律、法规、规章、条例以及任何具有法律效
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"Content considered by EliteMBA to be unsuitable for display on EliteMBA "
-"platforms;"
+"Content considered by Elite A.I. Academy to be unsuitable for display on "
+"Elite A.I. Academy platforms;"
 msgstr "含有英荔认为不适合在英荔展示的内容；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "2. Harm the legitimate rights and interests of others in any way;"
-msgstr "2. 以任何方式危害他人的合法权益；"
+msgstr "2.  以任何方式危害他人的合法权益；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "3. Pretend to be any other person or institution, or to make a false "
 "statement about or lied to any person or institution;"
-msgstr "3. 冒充其他任何人或机构，或以虚伪不实的方式陈述或谎称与任何人或机构有关；"
+msgstr "3.  冒充其他任何人或机构，或以虚伪不实的方式陈述或谎称与任何人或机构有关；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
@@ -26440,7 +26415,7 @@ msgid ""
 "8. Interfere with or disrupt this service or server and network connected to"
 " the Service, or violate any rules, procedures, policies or specifications "
 "regarding the network connection service;"
-msgstr "8. 干扰或破坏本服务或与本服务相连线之服务器和网络，或违反任何关于本服务连线网络之规定、程序、政策或规范；"
+msgstr "8.  干扰或破坏本服务或与本服务相连线之服务器和网络，或违反任何关于本服务连线网络之规定、程序、政策或规范；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "9. Tracking, cyber manhunting or harassing others in any other ways;"
@@ -26450,55 +26425,55 @@ msgstr "9. 跟踪、人肉搜索或以其他方式骚扰他人；"
 msgid ""
 "10. Deliberate or unintentional violate any applicable local and/or national"
 " law and any legally binding rules;"
-msgstr "10. 故意或非故意地违反任何适用的当地、国家法律，以及任何具有法律效力的规则；"
+msgstr "10.  故意或非故意地违反任何适用的当地、国家法律，以及任何具有法律效力的规则；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "11. Intercept, tamper with, collect, store or delete personal information, "
 "on-site mail or other data  without legal authorization, or use such "
 "information for any illegal or improper purpose. "
-msgstr "11. 未经合法授权而截获、篡改、收集、储存或删除他人个人信息、站内邮件或其他数据资料，或将获知的此类资料用于任何非法或不正当目的。"
+msgstr "11.  未经合法授权而截获、篡改、收集、储存或删除他人个人信息、站内邮件或其他数据资料，或将获知的此类资料用于任何非法或不正当目的。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"The User has acknowledged that EliteMBA does not have full control over the "
-"User's use. When the User uses any content, including relying on the "
-"correctness, completeness or practicability of the foregoing content, the "
-"User agrees to judge and assume all risks without relying on EliteMBA. "
-"However, in its sole discretion, EliteMBA may refuse and remove any content "
-"provided by the Service that violates these Terms or any other content that "
-"is controversial to EliteMBA."
+"The User has acknowledged that Elite A.I. Academy does not have full control"
+" over the User's use. When the User uses any content, including relying on "
+"the correctness, completeness or practicability of the foregoing content, "
+"the User agrees to judge and assume all risks without relying on Elite A.I. "
+"Academy. However, in its sole discretion, Elite A.I. Academy may refuse and "
+"remove any content provided by the Service that violates these Terms or any "
+"other content that is controversial to Elite A.I. Academy."
 msgstr ""
 "用户已认可英荔未对用户的使用行为进行全面控制，用户使用任何内容时，包括依赖前述内容之正确性、完整性或实用性时，用户同意将自行加以判断并承担所有风险，而不依赖于英荔。但英荔依其自行之考虑，可拒绝和删除经由本服务提供之违反本条款的或其他引起英荔异议的任何内容。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"User understands and agrees that EliteMBA might save or disclose contents in"
-" adherence of the requirements of laws and regulations, integrity or the "
-"following purposes:"
+"User understands and agrees that Elite A.I. Academy might save or disclose "
+"contents in adherence of the requirements of laws and regulations, integrity"
+" or the following purposes:"
 msgstr "用户了解并同意，英荔依据法律法规要求、基于诚信或出于以下目的，可能对部分内容加以保存或揭露："
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "1. Comply with legal procedures;"
-msgstr "1. 遵守法律程序；"
+msgstr "1.  遵守法律程序；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "3. Execute the implementation of this agreement;"
-msgstr "3. 执行本使用协议；"
+msgstr "2.  执行本使用协议；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "3. Respond to any claims made by third parties;"
-msgstr "3. 回应任何第三人提出的权利主张；"
+msgstr "3.  回应任何第三人提出的权利主张；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "4. Protect the rights, property or personal safety of Elite Education, its "
 "users and the public;"
-msgstr "4. 保护英荔、其用户及公众之权利、财产或个人安全；"
+msgstr "4.  保护英荔、其用户及公众之权利、财产或个人安全；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
-msgid "5. Other conditions that EliteMBA deems necessary."
-msgstr "5. 其他英荔认为有必要的情况。"
+msgid "5. Other conditions that ElElite A.I. AcademyiteMBA deems necessary."
+msgstr "5.  其他英荔认为有必要的情况。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "IX. Special Warning for International Use"
@@ -26515,7 +26490,7 @@ msgstr ""
 "用户已了解国际互联网的无国界性，同意遵守当地所有关于网上行为及内容之法律法规。用户特别同意遵守有关从中国或用户所在国家或地区输出信息之传输的所有适用法律法规。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
-msgid "X. Public information published on EliteMBA"
+msgid "X. Public information published on Elite A.I. Academy"
 msgstr "十、在英荔发布的公开信息"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -26526,16 +26501,16 @@ msgstr "1. 在本使用协议中，“本服务公开使用区域”系指一般
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"2. For the content uploaded or published by the user in EliteMBA, the user "
-"shall guarantee that he or she is the copyright owner or has obtained legal "
-"authorization, and the content does not infringe the legal rights of any "
-"third party, and the user agrees to grant all the aforementioned content to "
-"EliteMBA for worldwide free, irrevocable, permanent, sublicensable or "
-"transferable license use, under which license will have the right to use the"
-" foregoing in a manner that is displayed, promoted and otherwise not "
-"prohibited by our laws."
+"2. For the content uploaded or published by the user in Elite A.I. Academy, "
+"the user shall guarantee that he or she is the copyright owner or has "
+"obtained legal authorization, and the content does not infringe the legal "
+"rights of any third party, and the user agrees to grant all the "
+"aforementioned content to Elite A.I. Academy for worldwide free, "
+"irrevocable, permanent, sublicensable or transferable license use, under "
+"which license will have the right to use the foregoing in a manner that is "
+"displayed, promoted and otherwise not prohibited by our laws."
 msgstr ""
-"2. "
+"2.  "
 "用户在英荔上传或发布的内容，用户应保证其为著作权人或已取得合法授权，并且该内容不会侵犯任何第三方的合法权益，用户同意授予英荔所有前述内容在全球范围内的免费、不可撤销的、永久的、可再许可或转让的独家使用权许可，据该许可英荔将有权以展示、推广及其他不为我国法律所禁止的方式使用前述内容。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -26547,9 +26522,9 @@ msgid ""
 "Any third party's claim or request, including a reasonable attorney fee, due"
 " to the content provided, posted or transmitted by the User, the User's "
 "connection to the Service, the User's breach of the User Agreement, or any "
-"infringement of the User's rights, the user agrees to indemnify EliteMBA and"
-" its subsidiaries, affiliates, senior employees, agents, brand owners or "
-"other partners and employees against damage, and assume all legal "
+"infringement of the User's rights, the user agrees to indemnify Elite A.I. "
+"Academy and its subsidiaries, affiliates, senior employees, agents, brand "
+"owners or other partners and employees against damage, and assume all legal "
 "liabilities arising therefrom."
 msgstr ""
 "由于用户通过本服务提供、发布或传送之内容、用户与本服务连线、用户违反本使用协议、或用户侵害他人任何权利因而衍生或导致任何第三人提出任何索赔或请求，包括合理的律师费，用户同意赔偿英荔及其子公司、关联企业、高级职员、代理人、品牌共有人或其他合作伙伴及员工，并使其免受损害，"
@@ -26572,9 +26547,9 @@ msgstr "十三、关于储存"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"The User agrees that EliteMBA shall be liable for any information, "
-"communication materials and other content posted or transmitted through the "
-"Service, if it is deleted or not stored."
+"The User agrees that Elite A.I. Academy shall be liable for any information,"
+" communication materials and other content posted or transmitted through the"
+" Service, if it is deleted or not stored."
 msgstr "通过本服务发布或传送之任何信息、通讯资料和其他内容，如被删除或未予储存，用户同意英荔毋须承担任何责任。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -26583,10 +26558,11 @@ msgstr "十四、服务之修改"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA reserves the right to modify or terminate the Service (or any part "
-"thereof) temporarily or permanently at any time, with or without notice. The"
-" User agrees that the User shall not be liable to the User and any third "
-"party for any modification, suspension or termination of the Service."
+"Elite A.I. Academy reserves the right to modify or terminate the Service (or"
+" any part thereof) temporarily or permanently at any time, with or without "
+"notice. The User agrees that the User shall not be liable to the User and "
+"any third party for any modification, suspension or termination of the "
+"Service."
 msgstr ""
 "英荔有权于任何时间暂时或永久修改或终止本服务（或其任何部分），且无论通知与否。用户同意对于本服务所作的任何修改、暂停或终止，英荔对用户和任何第三人均无需承担任何责任。"
 
@@ -26596,19 +26572,19 @@ msgstr "十五、终止服务"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"User agrees that EliteMBA can, in its sole discretion, terminate the User "
-"account or the use of this service (or any part thereof) for any reason "
-"(including but not limited to long-term inactive account, or EliteMBA "
-"believes that User has violated the letters and spirit of this User "
-"Agreement), and remove and delete any content of the User within the "
+"User agrees that Elite A.I. Academy can, in its sole discretion, terminate "
+"the User account or the use of this service (or any part thereof) for any "
+"reason (including but not limited to long-term inactive account, or Elite "
+"A.I. Academy believes that User has violated the letters and spirit of this "
+"User Agreement), and remove and delete any content of the User within the "
 "service. User agrees that the service provided under any term of this User "
 "Agreement can be suspended or terminated without prior notification. User "
-"acknowledges and agrees that EliteMBA can immediately close or delete User "
-"account and all the related data and files, and/or prohibit continued use of"
-" the above files or this service. In addition, User agrees that if the use "
-"of this service is suspended or terminated, or the User's account and "
-"related data and files are closed or deleted, EliteMBA does not assume any "
-"liability to the User or any third party."
+"acknowledges and agrees that Elite A.I. Academy can immediately close or "
+"delete User account and all the related data and files, and/or prohibit "
+"continued use of the above files or this service. In addition, User agrees "
+"that if the use of this service is suspended or terminated, or the User's "
+"account and related data and files are closed or deleted, Elite A.I. Academy"
+" does not assume any liability to the User or any third party."
 msgstr ""
 "用户同意英荔基于其自行之考虑，因任何理由（包含但不限于长期对账号无任何操作，或英荔认为用户已经违反本使用协议的文字及精神）终止用户的账号或本服务之使用（或服务之任何部分），并将用户在本服务内任何内容加以移除并删除。用户同意依本使用协议任何规定提供之本服务，无需进行事先通知即可中断或终止，用户承认并同意，英荔可立即关闭或删除用户的账号及用户账号中所有相关信息及文件，及/或禁止继续使用前述文件或本服务。此外，用户同意若本服务之使用被中断或终止或用户的账号及相关信息和文件被关闭或删除，英荔对用户或任何第三人均不承担任何责任。"
 
@@ -26623,15 +26599,15 @@ msgid ""
 "promotional activities, including payment and delivery of related goods or "
 "services, and any other relevant terms, conditions, warranties or "
 "representations reached,  they are the fully behavior between users and "
-"advertisers and other third parties. EliteMBA is not liable for any loss or "
-"damage of any nature suffered by the user in connection with any of the "
-"foregoing transactions or the aforementioned advertisers and other third "
-"parties."
+"advertisers and other third parties. Elite A.I. Academy is not liable for "
+"any loss or damage of any nature suffered by the user in connection with any"
+" of the foregoing transactions or the aforementioned advertisers and other "
+"third parties."
 msgstr ""
 "用户通过本网站与广告商及其他第三方进行任何形式的通讯或商业往来，或参与促销活动，包含相关商品或服务之付款及交付，以及达成的其他任何相关条款、条件、保证或声明，完全为用户与广告商及其他第三方之间之行为。用户因前述任何交易或前述广告商及其他第三方而遭受的任何性质的损失或损害，英荔对此不负任何法律责任。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
-msgid "XVII. Exclusive Rights of EliteMBA"
+msgid "XVII. Exclusive Rights of Elite A.I. Academy"
 msgstr "十七、英荔之专属权利"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -26642,16 +26618,17 @@ msgid ""
 "or other proprietary rights. Users may not modify, rent, lend, sell, "
 "distribute any part or all of the Service or the Software, or create "
 "derivative works, or use unauthorized software, including but not without "
-"the express authorization of EliteMBA or the advertiser. Limited to the "
-"purpose of using the Service for unauthorized purposes. EliteMBA only grants"
-" the user personal, non-transferable and non-exclusive right to use, so that"
-" the User can use the purpose code of the software on a stand-alone "
-"computer, but the User may not (and must not allow any third person) to "
-"copy, modify, create derivative works, perform restoration work, reverse "
-"translation, or otherwise discover the source code, or sell, transfer, "
-"sublicense or provide software to set a warranty, or otherwise transfer any "
-"rights in the software. The User agrees to use the Service through the "
-"interface provided by EliteMBA and not in any other way."
+"the express authorization of Elite A.I. Academy or the advertiser. Limited "
+"to the purpose of using the Service for unauthorized purposes. Elite A.I. "
+"Academy only grants the user personal, non-transferable and non-exclusive "
+"right to use, so that the User can use the purpose code of the software on a"
+" stand-alone computer, but the User may not (and must not allow any third "
+"person) to copy, modify, create derivative works, perform restoration work, "
+"reverse translation, or otherwise discover the source code, or sell, "
+"transfer, sublicense or provide software to set a warranty, or otherwise "
+"transfer any rights in the software. The User agrees to use the Service "
+"through the interface provided by Elite A.I. Academy and not in any other "
+"way."
 msgstr ""
 "用户也了解并同意，经由本服务或广告商向用户呈现之赞助广告或信息所包含之内容，亦受到著作权、商标权、服务商标、专利权或其他专属权利之法律保护。未经英荔或广告商明示授权，用户不得修改、出租、出借、出售、散布本服务或软件之任何部份或全部，或据以制作衍生著作，或使用擅自修改后的软件，包括但不限于为了未经授权而使用本服务之目的。英荔仅授予用户个人、不可移转及非专属之使用权，使用户得于单机计算机使用其软件之目的码，但用户不得（并不得允许任何第三人）复制、修改、创作衍生著作、进行还原工程、反向组译，或以其他方式发现原始码，或出售、转让、再授权或提供软件设定担保，或以其他方式移转软件之任何权利。用户同意将通过由英荔所提供的界面而非任何其他途径使用本服务。"
 
@@ -26665,51 +26642,52 @@ msgstr "用户明确了解并同意∶"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"1. No provision of this agreement will relieve EliteMBA of any liability for"
-" the User's personal injury or damage or property loss resulting from "
-"intentional misconduct or gross negligence;"
-msgstr "1. 本使用协议的任何规定不会免除英荔对造成用户人身伤害的、或因故意或重大过失造成用户财产损失的任何责任；"
+"1. No provision of this agreement will relieve Elite A.I. Academy of any "
+"liability for the User's personal injury or damage or property loss "
+"resulting from intentional misconduct or gross negligence;"
+msgstr "1.  本使用协议的任何规定不会免除英荔对造成用户人身伤害的、或因故意或重大过失造成用户财产损失的任何责任；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "2. The use of the Service is at the User's own risk. The Service is provided"
-" on the basis of \"status quo\" and \"existing\". EliteMBA does not provide "
-"any warranty or guarantee, either express or implied, including but not "
-"limited to commercial marketability, applicability for particular purpose "
-"and non-infringement upon others' rights, etc.;"
+" on the basis of \"status quo\" and \"existing\". Elite A.I. Academy does "
+"not provide any warranty or guarantee, either express or implied, including "
+"but not limited to commercial marketability, applicability for particular "
+"purpose and non-infringement upon others' rights, etc.;"
 msgstr ""
 "2. "
 "使用该服务是由用户自担风险。该服务是在“现状”和“现有”的基础上提供的。英荔不提供任何明示或暗示的担保或保证，包括但不限于商业适销性，针对特定用途的适用性和不侵犯他人权利等;"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "3. Any statement or conduct by any third party in the Service;"
-msgstr "3. 任何第三方在本服务中所作之声明或行为；"
+msgstr "3.  任何第三方在本服务中所作之声明或行为；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "4. Other matters related to the Service, except as explicitely provided in "
 "this Agreement of Use;"
-msgstr "4. 与本服务相关的其他事宜，但本使用协议有明确规定的除外；"
+msgstr "4.  与本服务相关的其他事宜，但本使用协议有明确规定的除外；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "5. Elite Education does not accept any responsibility for the posting or "
 "delivery of fraudulent information by any third party or for inducing users "
 "to suffer financial losses."
-msgstr "5. 第三方以任何方式发布或投递欺诈性信息，或诱导用户受到经济损失，英荔不承担任何责任。"
+msgstr "5.  第三方以任何方式发布或投递欺诈性信息，或诱导用户受到经济损失，英荔不承担任何责任。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
-msgid "ⅩⅨ. EliteMBA Trademarks Information"
+msgid "ⅩⅨ. Elite A.I. Academy Trademarks Information"
 msgstr "十九、英荔商标信息"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"Elite Education, EliteMBA and other EliteMBA registered trademarks, logos "
-"and products and service names are trademarks of EliteMBA (hereinafter "
-"referred to as \"EliteMBA Mark\"). The User agrees not to display or use or "
-"otherwise process the EliteMBA Mark in any manner without the prior written "
-"consent of EliteMBA, or to indicate that the User has the right to display, "
-"use or otherwise process the EliteMBA Mark."
+"Elite Education, Elite A.I. Academy and other Elite A.I. Academy registered "
+"trademarks, logos and products and service names are trademarks of Elite "
+"A.I. Academy (hereinafter referred to as \"Elite A.I. Academy Mark\"). The "
+"User agrees not to display or use or otherwise process the Elite A.I. "
+"Academy Mark in any manner without the prior written consent of Elite A.I. "
+"Academy, or to indicate that the User has the right to display, use or "
+"otherwise process the Elite A.I. Academy Mark."
 msgstr ""
 "英荔教育、英荔商学院、英荔以及其他英荔注册商标、标志及产品、服务名称，均为英荔公司之商标（以下简称“英荔标记”）。未经英荔事先书面同意，用户同意不将英荔标记以任何方式展示或使用或作其他处理，或表示用户有权展示、使用或另行处理英荔标记。"
 
@@ -26725,19 +26703,20 @@ msgstr "英荔尊重他人知识产权，呼吁用户也要同样尊重知识产
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"The services and materials of EliteMBA are provided on an \"as is\" basis "
-"and expressly disclaims any express or implied warranties of \"service\", "
-"\"material\" or \"product\", including but not limited to for commercial use"
-" or fitness Guarantee for a specific purpose. EliteMBA is not responsible "
-"for any direct, indirect, incidental or consequential damages arising out of"
-" the Services, the materials or the products."
+"The services and materials of Elite A.I. Academy are provided on an \"as "
+"is\" basis and expressly disclaims any express or implied warranties of "
+"\"service\", \"material\" or \"product\", including but not limited to for "
+"commercial use or fitness Guarantee for a specific purpose. Elite A.I. "
+"Academy is not responsible for any direct, indirect, incidental or "
+"consequential damages arising out of the Services, the materials or the "
+"products."
 msgstr ""
 "英荔之服务与资料是基于“现状”提供，而且英荔明确地表示拒绝对于“服务”、“资料”或“产品”给予任何明示或暗示之保证，包括但不限于，为商业使用或适合于特定目的之保证。英荔对于因“服务”、“资料”或“产品”所产生之任何直接、间接、附带的或因此而导致之衍生性损失概不负责。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"If the User infringes upon the intellectual property rights of others, "
-"EliteMBA will, according to the provisions of the national laws and "
+"If the User infringes upon the intellectual property rights of others, Elite"
+" A.I. Academy will, according to the provisions of the national laws and "
 "regulations or under appropriate circumstances, delete specific contents or "
 "even terminate the User's account according to Terms of Service or related "
 "provisions."
@@ -26746,10 +26725,11 @@ msgstr ""
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA respects any rights (including intellectual property rights) of "
-"others and also requires our users to respect the rights of others. In the "
-"appropriate circumstances, EliteMBA may, at its discretion, terminate the "
-"account of the User who infringes or violates the rights of others."
+"Elite A.I. Academy respects any rights (including intellectual property "
+"rights) of others and also requires our users to respect the rights of "
+"others. In the appropriate circumstances, Elite A.I. Academy may, at its "
+"discretion, terminate the account of the User who infringes or violates the "
+"rights of others."
 msgstr ""
 "英荔尊重他人的任何权利（包括知识产权），同时也要求我们的使用者也尊重他人之权利。英荔在适当情况下，可自行决定终止侵害或违反他人权利之使用者的账号。"
 
@@ -26758,14 +26738,14 @@ msgid ""
 "If the User believes that the copyright of his/her work has been infringed "
 "or the User's intellectual property rights have been violated, according to "
 "the Regulations on the Protection of Information Network Communication "
-"Rights, users should contact EliteMBA and provide detailed evidence. Or "
-"please go to the National Copyright Administration of the People's Republic "
-"of China to download the \"Notice of Deleting or Disconnecting the "
-"Infringing Web Content\" (hereinafter referred to as the \"Delete Notice\")."
-" If the user does not understand the content of the \"Delete Notice\", "
-"please log in to the National Copyright Administration of the People's "
-"Republic of China and looks for the instructions for \"Notice to Remove or "
-"Disconnect the Content of the Infringing Web Link\"."
+"Rights, users should contact Elite A.I. Academy and provide detailed "
+"evidence. Or please go to the National Copyright Administration of the "
+"People's Republic of China to download the \"Notice of Deleting or "
+"Disconnecting the Infringing Web Content\" (hereinafter referred to as the "
+"\"Delete Notice\"). If the user does not understand the content of the "
+"\"Delete Notice\", please log in to the National Copyright Administration of"
+" the People's Republic of China and looks for the instructions for \"Notice "
+"to Remove or Disconnect the Content of the Infringing Web Link\"."
 msgstr ""
 "若用户认为自己的作品著作权遭到侵害或用户的知识产权被侵犯，根据《信息网络传播权保护条例》的规定，用户需及时向英荔联系并提供详实的举证材料。或请到中华人民共和国国家版权局下载《要求删除或断开链接侵权网络内容的通知》（下称“删除通知”）的示范格式，如果用户不明白“删除通知”的内容，请登录中华人民共和国国家版权局查看《要求删除或断开链接侵权网络内容的通知》填写说明。"
 
@@ -26776,31 +26756,32 @@ msgstr "二十一、一般条款"
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "1. This User Agreement, Privacy Policy and Disclaimer constitute the entire "
-"agreement between the User and EliteMBA, and regulate the User's use of the "
-"Service. Additional terms and conditions apply when users use related "
-"services and use content or software provided by third parties;"
+"agreement between the User and Elite A.I. Academy, and regulate the User's "
+"use of the Service. Additional terms and conditions apply when users use "
+"related services and use content or software provided by third parties;"
 msgstr ""
-"1. "
+"1.  "
 "本使用协议和隐私政策及免责声明构成用户与英荔之全部协议，并规范用户对于本服务之使用行为。在用户使用相关服务、使用第三方提供的内容或软件时，亦应遵从所适用之附加条款及条件；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"2. The User Agreement and the relationship between the User and EliteMBA are"
-" governed by the laws of the People's Republic of China. The dispute between"
-" the user and EliteMBA on the service, the Agreement or other related "
-"matters shall be settled through negotiation first. If the negotiation "
-"fails, it shall be submitted to the China International Economic and Trade "
-"Arbitration Commission for arbitration. The arbitral award is final and "
-"binding on both parties;"
+"2. The User Agreement and the relationship between the User and Elite A.I. "
+"Academy are governed by the laws of the People's Republic of China. The "
+"dispute between the user and Elite A.I. Academy on the service, the "
+"Agreement or other related matters shall be settled through negotiation "
+"first. If the negotiation fails, it shall be submitted to the China "
+"International Economic and Trade Arbitration Commission for arbitration. The"
+" arbitral award is final and binding on both parties;"
 msgstr ""
 "2.  "
 "本使用协议及用户与英荔之关系，均受到中华人民共和国法律管辖。用户与英荔就本服务、本使用协议或其他有关事项发生的争议，应首先友好协商解决，协商不成时应提请中国国际经济贸易仲裁委员会仲裁，仲裁裁决是终局性的，对双方均有约束力；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"3. The failure of EliteMBA to exercise or enforce any rights or provisions "
-"of this agreement shall not constitute the waiver of aforementioned rights;"
-msgstr "3. 英荔未行使或执行本使用协议任何权利或规定，不构成对前述权利或权利之放弃；"
+"3. The failure of Elite A.I. Academy to exercise or enforce any rights or "
+"provisions of this agreement shall not constitute the waiver of "
+"aforementioned rights;"
+msgstr "3.  英荔未行使或执行本使用协议任何权利或规定，不构成对前述权利或权利之放弃；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
@@ -26810,24 +26791,24 @@ msgid ""
 "intentions reflected in the Regulations effectively, and that other "
 "provisions of this User Agreement shall remain in full force;"
 msgstr ""
-"4. "
+"4.  "
 "倘本使用协议之任何规定因与中华人民共和国法律抵触而无效，用户依然同意应依照法律，努力使该规定所反映之当事人意向具备效力，且本使用协议其他规定仍应具有完整的效力；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "5. The title of this User Agreement is for convenience only and does not "
 "have any legal or contractual effect;"
-msgstr "5. 本使用协议之标题仅供方便而设，不具任何法律或契约效果；"
+msgstr "5.  本使用协议之标题仅供方便而设，不具任何法律或契约效果；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "6. Elite Education has the final interpretation of this User Agreement."
-msgstr "6. 英荔对本使用协议享有最终解释权。"
+msgstr "6.  英荔对本使用协议享有最终解释权。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"Users are advised to notify EliteMBA of any violation of the Terms of "
-"Service and/or any other announcements of EliteMBA."
+"Users are advised to notify Elite A.I. Academy of any violation of the Terms"
+" of Service and/or any other announcements of Elite A.I. Academy."
 msgstr "请用户在发现任何违反本服务协议以及其他任何单项服务的服务条款、英荔各类公告之情形时，通知英荔。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -26836,27 +26817,29 @@ msgstr "协议生效日期：2018年11月30日"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"The Products and services of EliteMBA（www.elitemba.cn）are provided by "
-"Guangzhou Elite Education & Technology Co., Ltd (hereinafter referred to as "
-"\"we\", \"Company\" or \"Elite\"). This User Agreement is applicable to "
-"E-ducation websites, E-ducation applications and other related products and "
-"services on computer/mobile phone/tablet or other devices. EliteMBA attaches"
-" great importance to the protection of the privacy of EliteMBA Users "
-"(hereinafter referred to as \"Users\"). Sometimes we need certain "
-"information to provide users with the requested services. This policy "
-"explains the data collection and use under these circumstances."
+"The Products and services of Elite A.I. Academy（edu.aimaker.space）are "
+"provided by Guangzhou Elite Education & Technology Co., Ltd (hereinafter "
+"referred to as \"we\", \"Company\" or \"Elite\"). This User Agreement is "
+"applicable to E-ducation websites, E-ducation applications and other related"
+" products and services on computer/mobile phone/tablet or other devices. "
+"Elite A.I. Academy attaches great importance to the protection of the "
+"privacy of Elite A.I. Academy Users (hereinafter referred to as \"Users\"). "
+"Sometimes we need certain information to provide users with the requested "
+"services. This policy explains the data collection and use under these "
+"circumstances."
 msgstr ""
-"英荔商学院（www.EliteMBA.cn）的产品及服务由广东英荔国际教育科技有限公司（以下简称“英荔”或“我们”）提供。本隐私政策（以下简称“本政策”）适用于英荔的网站、在计算机/手机/平板电脑或其他设备上使用的英荔的应用程序和其他产品及服务。英荔非常重视对英荔用户（以下简称“用户”）个人隐私的保护，有时候我们需要某些信息才能为用户提供请求的服务，本政策解释了这些情况下的数据收集和使用情况。"
+"英荔 AI "
+"教育学院（edu.aimaker.space）的产品及服务由广东英荔国际教育科技有限公司（以下简称“英荔”或“我们”）提供。本隐私政策（以下简称“本政策”）适用于英荔的网站、在计算机/手机/平板电脑或其他设备上使用的英荔的应用程序和其他产品及服务。英荔非常重视对英荔用户（以下简称“用户”）个人隐私的保护，有时候我们需要某些信息才能为用户提供请求的服务，本政策解释了这些情况下的数据收集和使用情况。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"This policy applies to all relevant services in EliteMBA. As the scope of "
-"the EliteMBA services expands, the content of the policy may be amended or "
-"changed at any time by EliteMBA. EliteMBA will publish and update the "
-"effective date. Once the updated Privacy Policy is published, it effectively"
-" replaces the original Privacy Policy. By continuing to use EliteMBA "
-"Service, the User agrees to and accepts this Policy and any updated versions"
-" thereof."
+"This policy applies to all relevant services in Elite A.I. Academy. As the "
+"scope of the Elite A.I. Academy services expands, the content of the policy "
+"may be amended or changed at any time by Elite A.I. Academy. Elite A.I. "
+"Academy will publish and update the effective date. Once the updated Privacy"
+" Policy is published, it effectively replaces the original Privacy Policy. "
+"By continuing to use Elite A.I. Academy Service, the User agrees to and "
+"accepts this Policy and any updated versions thereof."
 msgstr ""
 "本政策适用于英荔的所有相关服务，随着英荔服务范围的扩大，政策的内容可由英荔随时修正或更改，英荔将公布并更新生效日期。更新后的隐私政策一旦公布即有效代替原来的隐私政策，用户继续使用英荔服务即表示用户同意并接受本政策及其任何更新版本。"
 
@@ -26866,12 +26849,12 @@ msgstr "一、我们收集哪些信息"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"Normally, you can visit EliteMBA and browse the information anonymously. "
-"When your Personally Identifiable Information or contact details are needed,"
-" we will ask for your prior consent. Information such as Name, E-mail "
-"Address, Residence Address and Mobile Number might be collected when "
-"registering on EliteMBA or applying for new features and your confirmation "
-"is needed. "
+"Normally, you can visit Elite A.I. Academy and browse the information "
+"anonymously. When your Personally Identifiable Information or contact "
+"details are needed, we will ask for your prior consent. Information such as "
+"Name, E-mail Address, Residence Address and Mobile Number might be collected"
+" when registering on Elite A.I. Academy or applying for new features and "
+"your confirmation is needed. "
 msgstr ""
 "通常，用户能在匿名的状态下访问英荔并获取信息。当我们需要能识别用户个人信息或者可以与用户联系的信息时，我们会征求用户的同意。通常，在用户注册英荔或申请开通新的功能时，我们可能收集这些信息：姓名、邮箱地址、住址和电话号码，并征求用户的确认。"
 
@@ -26881,18 +26864,20 @@ msgstr "二、关于您的个人信息"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA strictly protects the security of Users' personal information. We "
-"use a variety of security technologies and procedures to protect our "
-"personal information from unauthorized access, use or disclosure."
+"Elite A.I. Academy strictly protects the security of Users' personal "
+"information. We use a variety of security technologies and procedures to "
+"protect our personal information from unauthorized access, use or "
+"disclosure."
 msgstr "英荔严格保护用户个人信息的安全。我们使用各种安全技术和程序来保护用户的个人信息不被未经授权的访问、使用或泄漏。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA will not disclose the personal information of the User to third "
-"parties without the User's permission. The following conditions are listed "
-"in this statement: the legal requirements or the User's violation of the "
-"relevant terms of service of EliteMBA, the software license agreement, or "
-"EliteMBA has good reasons to believe that this must be done in order to:"
+"Elite A.I. Academy will not disclose the personal information of the User to"
+" third parties without the User's permission. The following conditions are "
+"listed in this statement: the legal requirements or the User's violation of "
+"the relevant terms of service of Elite A.I. Academy, the software license "
+"agreement, or Elite A.I. Academy has good reasons to believe that this must "
+"be done in order to:"
 msgstr ""
 "未经用户本人允许，英荔不会向第三方透露用户的个人信息，本声明列出的以下情况除外：法律要求或用户违反英荔的相关服务条款、软件许可使用协议约定，或者英荔有充分理由相信必须这样做才能："
 
@@ -26901,28 +26886,28 @@ msgid ""
 "(a) Meet the requirements of laws or administrative regulations that are "
 "explicitely listed, or comply with applicable legal procedures to Elite "
 "Education websites;"
-msgstr "(a)满足法律或行政法规的明文规定，或者符合英荔网站适用的法律程序；"
+msgstr "(a) 满足法律或行政法规的明文规定，或者符合英荔网站适用的法律程序；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"(b) Comply with the terms of EliteMBA related service terms and software "
-"license agreement;"
+"(b) Comply with the terms of Elite A.I. Academy related service terms and "
+"software license agreement;"
 msgstr "(b)符合英荔相关服务条款、软件许可使用协议的约定；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
-msgid "(c) Protection of the rights or property of EliteMBA;"
-msgstr "(c)保护英荔的权利或财产；"
+msgid "(c) Protection of the rights or property of Elite A.I. Academy;"
+msgstr "(c) 保护英荔的权利或财产；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"(d) Under urgent emergencies, ensure the safety of EliteMBA employees, "
-"product or service users, or the public."
+"(d) Under urgent emergencies, ensure the safety of Elite A.I. Academy "
+"employees, product or service users, or the public."
 msgstr "(d)在紧急情况下保护英荔员工、英荔产品或服务的用户或大众的个人安全。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"This information will not be shared with third parties by EliteMBA without "
-"the user's permission, except as outlined above in this statement."
+"This information will not be shared with third parties by Elite A.I. Academy"
+" without the user's permission, except as outlined above in this statement."
 msgstr "英荔不会未经用户的允许将这些信息与第三方共享，本声明已经列出的上述情况除外。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -26941,17 +26926,18 @@ msgstr ""
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA will use cookies sometimes to capture the websites to learn which "
-"websites are popular in order to provide better services to User when they "
-"are visiting E-ducation."
+"Elite A.I. Academy will use cookies sometimes to capture the websites to "
+"learn which websites are popular in order to provide better services to User"
+" when they are visiting E-ducation."
 msgstr "英荔有时会使用 Cookie 以便知道哪些网页受欢迎，使用户在访问英荔时能得到更好的服务。Cookie 不会跟踪个人信息。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA cookie is also used when the user registers for EliteMBA. In this "
-"case, EliteMBA collects and stores useful information, and when the user "
-"visits EliteMBA again, we can identify the user. Cookies from EliteMBA can "
-"only be read by EliteMBA."
+"Elite A.I. Academy cookie is also used when the user registers for Elite "
+"A.I. Academy. In this case, Elite A.I. Academy collects and stores useful "
+"information, and when the user visits Elite A.I. Academy again, we can "
+"identify the user. Cookies from Elite A.I. Academy can only be read by Elite"
+" A.I. Academy."
 msgstr ""
 "当用户注册英荔时，英荔亦会使用 Cookie。在这种情况下，英荔会收集并存储有用信息，当用户再次访问英荔时，我们可辨认用户的身份。来自英荔的 "
 "Cookie 只能被英荔读取。"
@@ -26959,7 +26945,7 @@ msgstr ""
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "If the User's browser is set to reject cookies, the User will still be able "
-"to access most of the web pages of EliteMBA."
+"to access most of the web pages of Elite A.I. Academy."
 msgstr "如果用户的浏览器被设置为拒绝 Cookie，用户仍然能够访问英荔的大多数网页。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -26968,46 +26954,46 @@ msgstr "四、关于免责说明"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA does not assume any legal responsibility for the occurrence of the "
-"following related matters:"
+"Elite A.I. Academy does not assume any legal responsibility for the "
+"occurrence of the following related matters:"
 msgstr "就下列相关事宜的发生，英荔不承担任何法律责任："
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "1. The leakage of any personal information caused by the User's notification"
 " of the User's password or sharing the registered account with others, or "
-"the leakage of other personal information that is not caused by EliteMBA "
-"reasons; "
-msgstr "1. 由于用户将用户密码告知他人或与他人共享注册账号，由此导致的任何个人信息的泄漏，或其他非因英荔原因导致的个人信息的泄漏；"
+"the leakage of other personal information that is not caused by Elite A.I. "
+"Academy reasons; "
+msgstr "1.  由于用户将用户密码告知他人或与他人共享注册账号，由此导致的任何个人信息的泄漏，或其他非因英荔原因导致的个人信息的泄漏；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "2. According to the provisions of the law or relevant government policy "
-"requirements, Elitemba providing User's personal information;"
+"requirements, Elite A.I. Academy providing User's personal information;"
 msgstr "2. 英荔根据法律规定或政府相关政策要求提供用户的个人信息；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "3. Disputes caused by any third party using User's personal information "
 "under various circumstances listed in the terms of service and the "
-"Disclaimer of EliteMBA;"
+"Disclaimer of Elite A.I. Academy;"
 msgstr "3. 任何第三方根据英荔各服务条款及声明中所列明的情况使用用户的个人信息，由此所产生的纠纷；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "4. Any temporary website closure due to hacking, computer virus intrusion or"
 " government regulation;"
-msgstr "4. 任何由于黑客攻击、电脑病毒侵入或政府管制而造成的暂时性网站关闭；"
+msgstr "4.  任何由于黑客攻击、电脑病毒侵入或政府管制而造成的暂时性网站关闭；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "5. Any consequences caused by force majeure;"
-msgstr "5. 因不可抗力导致的任何后果；"
+msgstr "5.  因不可抗力导致的任何后果；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"6. Ways of use or disclaimer circumstances listed by EliteMBA in terms of "
-"service and this Disclaimer."
-msgstr "6. 英荔在各服务条款及声明中列明的使用方式或免责情形。"
+"6. Ways of use or disclaimer circumstances listed by Elite A.I. Academy in "
+"terms of service and this Disclaimer."
+msgstr "6.  英荔在各服务条款及声明中列明的使用方式或免责情形。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "General Terms"
@@ -27015,34 +27001,35 @@ msgstr "总则"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"The products and services of Elite Education (www.elitemba.cn) are provided "
-"by Guangdong Elite International Education & Technology Co., Ltd. "
-"(hereinafter referred to as \"EliteMBA\" or \"We\"). This Disclaimer "
-"Statement(hereinafter referred to as \"Disclaimer\") applies to EliteMBA "
-"website, other applications  used on computers, mobile phones/tablets or "
-"other devices and other products and services. EliteMBA User (hereinafter "
-"referred to as \"User\") must carefully read these terms and agree to this "
-"statement before accepting EliteMBA service."
+"The products and services of Elite Education (edu.aimaker.space) are "
+"provided by Guangdong Elite International Education & Technology Co., Ltd. "
+"(hereinafter referred to as \"Elite A.I. Academy\" or \"We\"). This "
+"Disclaimer Statement(hereinafter referred to as \"Disclaimer\") applies to "
+"Elite A.I. Academy website, other applications  used on computers, mobile "
+"phones/tablets or other devices and other products and services. Elite A.I. "
+"Academy User (hereinafter referred to as \"User\") must carefully read these"
+" terms and agree to this statement before accepting Elite A.I. Academy "
+"service."
 msgstr ""
 "英荔商学院（www.EliteMBA.cn）的产品及服务由广东英荔国际教育科技有限公司（以下简称“英荔”或“我们”）提供。本免责声明（以下简称“本声明”）适用于英荔的网站、在计算机/手机/平板电脑或其他设备上使用的英荔的应用程序和其他产品及服务。英荔用户（以下简称“用户”）在接受英荔服务之前，请务必仔细阅读本条款并同意本声明"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "User who directly or (such as off-site API references, etc.) indirectly uses"
-" EliteMBA services and data through various means will be regarded as having"
-" unconditionally accepted all the contents involved in this Disclaimer; if "
-"user objects any of the terms in this Disclaimer, please stop using all "
-"services provided by EliteMBA. "
+" Elite A.I. Academy services and data through various means will be regarded"
+" as having unconditionally accepted all the contents involved in this "
+"Disclaimer; if user objects any of the terms in this Disclaimer, please stop"
+" using all services provided by Elite A.I. Academy. "
 msgstr ""
 "用户直接或通过各类方式（如站外API引用等）间接使用英荔服务和数据的行为，都将被视作已无条件接受本声明所涉全部内容；若用户对本声明的任何条款有异议，请停止使用英荔所提供的全部服务。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"This disclaimer may be amended or changed at any time by EliteMBA. The "
-"EliteMBA will announce and updated the effective date. The updated "
-"disclaimer will effectively replace the original statement once it is "
-"published. By continuing to use EliteMBA service, the user agrees to and "
-"accepts this statement and any updated versions thereof."
+"This disclaimer may be amended or changed at any time by Elite A.I. Academy."
+" The Elite A.I. Academy will announce and updated the effective date. The "
+"updated disclaimer will effectively replace the original statement once it "
+"is published. By continuing to use Elite A.I. Academy service, the user "
+"agrees to and accepts this statement and any updated versions thereof."
 msgstr ""
 "本免责声明可由英荔随时修正或更改，英荔将公布并更新生效日期。更新后的免责声明一旦公布即有效代替原来的声明，用户继续使用英荔服务即表示用户同意并接受本声明及其任何更新版本。"
 
@@ -27052,12 +27039,12 @@ msgstr "第一条"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"Users may not use EliteMBA to directly or indirectly engage in breaches of "
-"EliteMBA services and data (including but not limited to publication, "
-"promotion, reprint, browsing, and use of EliteMBA or its users) in various "
-"ways. Laws and regulations of the People's Republic of China, as well as the"
-" behavior of social morality. Users should abide by the following "
-"commitments:"
+"Users may not use Elite A.I. Academy to directly or indirectly engage in "
+"breaches of Elite A.I. Academy services and data (including but not limited "
+"to publication, promotion, reprint, browsing, and use of Elite A.I. Academy "
+"or its users) in various ways. Laws and regulations of the People's Republic"
+" of China, as well as the behavior of social morality. Users should abide by"
+" the following commitments:"
 msgstr ""
 "用户以各种方式使用英荔服务和数据（包括但不限于发表、宣传介绍、转载、浏览及利用英荔或其用户发布内容）的过程中，不得以任何方式利用英荔直接或间接从事违反中华人民共和国法律法规，以及社会公德的行为。用户应当恪守下述承诺："
 
@@ -27065,31 +27052,31 @@ msgstr ""
 msgid ""
 "1. Content published, reprinted or provided should comply with Chinese laws "
 "and regulations and social morality;"
-msgstr "1. 发布、转载或提供的内容符合中国法律法规、社会公德；"
+msgstr "1.  发布、转载或提供的内容符合中国法律法规、社会公德；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "2. Cannot interfere with, damage or violate the various legal rights and "
 "interests of Elite Education;"
-msgstr "2. 不得干扰、损害和侵犯英荔的各种合法权利与利益；"
+msgstr "2.  不得干扰、损害和侵犯英荔的各种合法权利与利益；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "3. Shall not interfere with, damage and infringe upon the various legal "
-"rights and interests of other EliteMBA users;"
+"rights and interests of other Elite A.I. Academy users;"
 msgstr "3. 不得干扰、损害和侵犯其他英荔用户的各种合法权利与利益；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "4. Compliance with the rules and guidelines, management rules, etc. of Elite"
 " Education website and other network related services;"
-msgstr "4. 遵守英荔以及与之相关的网络服务的协议、指导原则、管理细则等；"
+msgstr "4.  遵守英荔以及与之相关的网络服务的协议、指导原则、管理细则等；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "5. Elite Education has the right to remove content that violates the above "
 "commitments."
-msgstr "5. 英荔有权对违反上述承诺的内容予以删除。"
+msgstr "5.  英荔有权对违反上述承诺的内容予以删除。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "Article 2"
@@ -27097,16 +27084,17 @@ msgstr "第二条"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"1. EliteMBA only provides storage space for content posted by users. "
-"EliteMBA does not provide any form of guarantee for the content posted or "
-"reprinted by the User: there is no guarantee that the content will meet the "
-"requirements of users, and there is no guarantee that the services of "
-"EliteMBA will not be interrupted. EliteMBA does not assume any legal "
-"responsibility for any reason that the user cannot use the website due to "
-"any conditions such as network conditions, communication lines, third-party "
-"websites or management requirements."
+"1. Elite A.I. Academy only provides storage space for content posted by "
+"users. Elite A.I. Academy does not provide any form of guarantee for the "
+"content posted or reprinted by the User: there is no guarantee that the "
+"content will meet the requirements of users, and there is no guarantee that "
+"the services of Elite A.I. Academy will not be interrupted. Elite A.I. "
+"Academy does not assume any legal responsibility for any reason that the "
+"user cannot use the website due to any conditions such as network "
+"conditions, communication lines, third-party websites or management "
+"requirements."
 msgstr ""
-"1. "
+"1.  "
 "英荔仅为用户发布的内容提供存储空间，英荔不对用户发表、转载的内容提供任何形式的保证：不保证内容满足用户的要求，不保证英荔的服务不会中断。因网络状况、通讯线路、第三方网站或管理部门的要求等任何原因而导致用户不能正常使用本网站，英荔不承担任何法律责任。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -27116,23 +27104,23 @@ msgid ""
 "personal position and views, and does not represent the position or opinion "
 "of Elite. As the content publisher, it is the responsibility of the content "
 "to be published. All the disputes arising from the published content shall "
-"be the legal and joint responsibility of the publisher of the content. "
-"EliteMBA does not assume any legal and joint responsibility. "
+"be the legal and joint responsibility of the publisher of the content. Elite"
+" A.I. Academy does not assume any legal and joint responsibility. "
 msgstr ""
-"2. "
+"2.  "
 "用户在英荔发表的内容（包含但不限于英荔目前各产品功能里的内容）仅表明其个人的立场和观点，并不代表英荔的立场或观点。作为内容的发表者，需自行对所发表内容负责，因所发表内容引发的一切纠纷，由该内容的发表者承担全部法律及连带责任。英荔不承担任何法律及连带责任。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
 "3. if the user publishes content suspected of infringing on the intellectual"
 " property rights or other legitimate rights and interests of others through "
-"EliteMBA, after the relevant parties provide prima facie evidence, EliteMBA "
-"has the right to delete it first and retain the right to transfer it to the "
-"judicial authorities. Referring to the investigation results of the relevant"
-" judicial authorities, EliteMBA has the final decision on the disposal of "
-"the content posted on the website. "
+"Elite A.I. Academy, after the relevant parties provide prima facie evidence,"
+" Elite A.I. Academy has the right to delete it first and retain the right to"
+" transfer it to the judicial authorities. Referring to the investigation "
+"results of the relevant judicial authorities, Elite A.I. Academy has the "
+"final decision on the disposal of the content posted on the website. "
 msgstr ""
-"3. "
+"3.  "
 "用户在英荔发布涉嫌侵犯他人知识产权或其他合法权益的内容，经相关方提供初步证据，英荔有权先行予以删除，并保留移交司法机关查处的权利。参照相应司法机关的查处结果，英荔对于网站发布内容的处置具有最终决定权。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
@@ -27140,7 +27128,7 @@ msgid ""
 "4. User should inform Elite when he/she discovers any violation of this "
 "Service Agreement, the terms of service of any other individual service, and"
 " various announcements made by Elite Education. "
-msgstr "4. 个人或单位如认为英荔存在侵犯自身合法权益的内容，应准备好具有法律效应的证明材料，及时与英荔取得联系，以便英荔迅速做出处理。"
+msgstr "4.  个人或单位如认为英荔存在侵犯自身合法权益的内容，应准备好具有法律效应的证明材料，及时与英荔取得联系，以便英荔迅速做出处理。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid "Supplementary"
@@ -27148,7 +27136,8 @@ msgstr "附则"
 
 #: themes/elitemba-theme/lms/templates/static_templates/honor.html
 msgid ""
-"EliteMBA reserves the rights to interpret, modify and update the Disclaimer."
+"Elite A.I. Academy reserves the rights to interpret, modify and update the "
+"Disclaimer."
 msgstr "对免责声明的解释、修改及更新权均属于英荔所有。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/join_us.html
@@ -27161,11 +27150,11 @@ msgstr "成为更有价值的自己"
 
 #: themes/elitemba-theme/lms/templates/static_templates/join_us.html
 msgid ""
-"EliteMBA pays attention to employee development and attaches importance to "
-"the power of communication. We continue to learn, inspire each other, and "
-"constantly discover industry inspiration at work, and open our eyes as a "
-"whole community. Here, work is an organic combination of enjoyment and hard "
-"work."
+"Elite A.I. Academy pays attention to employee development and attaches "
+"importance to the power of communication. We continue to learn, inspire each"
+" other, and constantly discover industry inspiration at work, and open our "
+"eyes as a whole community. Here, work is an organic combination of enjoyment"
+" and hard work."
 msgstr ""
 "英荔关注员工发展，重视交流的力量。作为一个整体，我们不断学习，相互启发，在工作中不断发现行业灵感，大开眼界。在这里，工作是享受与拼搏的有机结合。"
 
@@ -27182,12 +27171,12 @@ msgstr "成为英荔讲师"
 
 #: themes/elitemba-theme/lms/templates/static_templates/join_us.html
 msgid ""
-"Standing on the platform, educators can impart wisdom to learners. EliteMBA "
-"completely breaks the geographical restrictions of teaching and learning and"
-" provides a broader platform for educators. We sincerely invite all elite "
-"professors, scholars and experts who have been deeply involved in business "
-"management disciplines to develop more outstanding business talents by "
-"transforming intangible wisdom into a collectible course."
+"Standing on the platform, educators can impart wisdom to learners. Elite "
+"A.I. Academy completely breaks the geographical restrictions of teaching and"
+" learning and provides a broader platform for educators. We sincerely invite"
+" all elite professors, scholars and experts who have been deeply involved in"
+" business management disciplines to develop more outstanding business "
+"talents by transforming intangible wisdom into a collectible course."
 msgstr ""
 "站上讲台，教育者得以向学习者传授智慧。英荔彻底打破教与学的地理限制，为教育者提供更广阔的讲台。我们诚挚地向所有深耕于商业管理学科的精英教授、学者和专家发出邀请，让我们共同将无形的智慧实化为可典藏的课程，以此培养更多杰出的商业人才。"
 
@@ -27198,6 +27187,10 @@ msgstr "请直接邮件联系"
 #: themes/elitemba-theme/lms/templates/static_templates/join_us.html
 msgid "directly or call 400-931-8118."
 msgstr "或致电400-931-8118。"
+
+#: themes/elitemba-theme/lms/templates/static_templates/manual.html
+msgid "Manual"
+msgstr "使用手册"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "To know more about courses"
@@ -27216,8 +27209,8 @@ msgstr "如何加入会员？"
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid ""
 "Enter \"Membership\" page, choose your learning duration and payment method."
-" After payment is completed, you can enjoy learning all courses on EliteMBA "
-"during the study period."
+" After payment is completed, you can enjoy learning all courses on Elite "
+"A.I. Academy during the study period."
 msgstr "进入“会员资格”页，选择适合您的学习时长及支付方式，支付成功后便可在会员期限内享受所有课程的学习权益。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
@@ -27282,35 +27275,35 @@ msgstr "进入“课程面板-查看课程”页，在右侧找到“课程讲�
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "How do I change or reset my password?"
-msgstr "如何更改或重置密码？"
+msgstr "怎么修改或重置我的秘密？"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "To change your password"
-msgstr "更改您的密码"
+msgstr "修改我的密码"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid ""
 "1. At the top of any page, select the dropdown menu icon next to your "
 "username."
-msgstr "1. 在任意页面的顶部，选择用户名旁边的下拉菜单图标；"
+msgstr "1.在任何页面的顶部，选择用户名旁边的下拉菜单图标。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "2. Select \"Account\"."
-msgstr "2. 选择“帐户”；"
+msgstr "2. 选择账号"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "3. Select \"Reset Password\"."
-msgstr "3. 选择“重置密码”"
+msgstr "3. 选择重设密码"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid ""
 "The system sends a confirmation message to the email address in the \"Email "
 "Address\" field."
-msgstr "系统会向“电子邮件地址”框内的电子邮件地址发送确认消息；"
+msgstr "系统将确认消息发送到“电子邮件地址”字段中的电子邮件地址。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "4. Select the confirmation link in the email message."
-msgstr "4. 打开电子邮件中的确认链接以确认密码修改。"
+msgstr "4. 点击邮件消息内的确认链接"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "Passwords must contain:"
@@ -27318,44 +27311,44 @@ msgstr "密码必须包含："
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "At least 6 characters"
-msgstr "至少6个字符"
+msgstr "至少 6 个字符"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "How do I change my email address?"
-msgstr "如何更改我的电子邮件地址？"
+msgstr "如何变更我的邮箱？"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid ""
 "You can change your email address on any site page. You use your email "
 "address to sign in to your account. In addition, communications from your "
 "course teams are sent to this address."
-msgstr "您可以在任何网站页面上更改您的电子邮件地址。您使用此电子邮件地址登录自己的帐户。另外，您所加入的课程团队将把课程信息发送到此电子邮件地址。"
+msgstr "您可以在任何网站页面上更改您的电子邮件地址。您使用您的电子邮件地址登录到您的帐户。此外，来自您的课程团队的通讯也将发送到该地址。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "To change your email address"
-msgstr "更改您的电子邮件地址"
+msgstr "变更你的邮箱"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid ""
 "1. At the top of any page, select the dropdown menu icon next to your "
 "username;"
-msgstr "1. 在任意页面的顶部，选择用户名旁边的下拉菜单图标；"
+msgstr "1.在任何页面的顶部，选择用户名旁边的下拉菜单图标。"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid "2. Select \"Account\";"
-msgstr "2. 选择“账号”；"
+msgstr "2. 选择账号"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid ""
 "3. In the \"Email Address\" field, select your current email address and "
 "replace it with the new address;"
-msgstr "3. 在“电子邮件地址”的输入框中，选择您当前的电子邮件地址并将其替换为新的电子邮件地址；"
+msgstr "3.在“电子邮件地址”字段中，选择您当前的电子邮件地址，并将其替换为新地址；"
 
 #: themes/elitemba-theme/lms/templates/static_templates/manual.html
 msgid ""
 "4. To save your changes, click anywhere on the page outside of the \"Email "
 "Address\" field, or navigate to a different page."
-msgstr "4. 最后要保存更改，请单击“电子邮件地址”字段外部页面上的任意位置，或导航至其他页面。"
+msgstr "4.要保存更改，请在“电子邮件地址”字段之外的页面上单击任意位置，或导航到其他页面。"
 
 #: themes/elitemba-theme/lms/templates/student_account/account_settings.html
 msgid "Mobile"
@@ -27366,8 +27359,8 @@ msgid "Mobile Phone No.:"
 msgstr "手机号码："
 
 #: themes/elitemba-theme/lms/templates/student_account/account_settings.html
-msgid "Bind your EliteMBA account to your cellphone number."
-msgstr "将您的手机号码与EliteMBA的账号绑定。"
+msgid "Bind your Elite A.I. Academy account to your cellphone number."
+msgstr "将您的手机号码与英荔 AI 教育学院的账号绑定。"
 
 #: themes/stanford-style/lms/templates/footer.html
 #: themes/stanford-style/lms/templates/static_templates/tos.html
@@ -27410,7 +27403,7 @@ msgid ""
 "Change your life and start learning today by activating your {platform_name}"
 " account. Click on the link below or copy and paste it into your browser's "
 "address bar."
-msgstr "激活您的{platform_name}账号，从今天起开始学习，并以此改变您的生活。点击下面的链接或复制并粘贴到您浏览器的地址栏。"
+msgstr "激活您的 {platform_name} 账号，从今天起开始学习，并以此改变您的生活。点击下面的链接或复制并粘贴到您浏览器的地址栏。"
 
 #: themes/stanford-style/lms/templates/emails/activation_email.txt
 #: themes/stanford-style/lms/templates/emails/email_change.txt
