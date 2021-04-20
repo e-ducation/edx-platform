@@ -1,104 +1,98 @@
 [main]
 host = https://www.transifex.com
 
-[edx-i.django-partial]
+[elitemba.django-partial]
 file_filter = conf/locale/<lang>/LC_MESSAGES/django-partial.po
 source_file = conf/locale/en/LC_MESSAGES/django-partial.po
 source_lang = en
 type = PO
 
-[edx-i.django-studio]
+[elitemba.django-studio]
 file_filter = conf/locale/<lang>/LC_MESSAGES/django-studio.po
 source_file = conf/locale/en/LC_MESSAGES/django-studio.po
 source_lang = en
 type = PO
 
-[edx-i.djangojs-partial]
-file_filter = conf/locale/<lang>/LC_MESSAGES/djangojs-partial.po
-source_file = conf/locale/en/LC_MESSAGES/djangojs-partial.po
-source_lang = en
-type = PO
-
-[edx-i.djangojs-studio]
-file_filter = conf/locale/<lang>/LC_MESSAGES/djangojs-studio.po
-source_file = conf/locale/en/LC_MESSAGES/djangojs-studio.po
-source_lang = en
-type = PO
-
-[edx-i.mako]
-file_filter = conf/locale/<lang>/LC_MESSAGES/mako.po
-source_file = conf/locale/en/LC_MESSAGES/mako.po
-source_lang = en
-type = PO
-
-[edx-i.mako-studio]
-file_filter = conf/locale/<lang>/LC_MESSAGES/mako-studio.po
-source_file = conf/locale/en/LC_MESSAGES/mako-studio.po
-source_lang = en
-type = PO
-
-[edx-i.underscore]
-file_filter = conf/locale/<lang>/LC_MESSAGES/underscore.po
-source_file = conf/locale/en/LC_MESSAGES/underscore.po
-source_lang = en
-type = PO
-
-[edx-i.underscore-studio]
-file_filter = conf/locale/<lang>/LC_MESSAGES/underscore-studio.po
-source_file = conf/locale/en/LC_MESSAGES/underscore-studio.po
-source_lang = en
-type = PO
-
-[edx-i.wiki]
-file_filter = conf/locale/<lang>/LC_MESSAGES/wiki.po
-source_file = conf/locale/en/LC_MESSAGES/wiki.po
-source_lang = en
-type = PO
-
-[edx-i.membership]
-file_filter = conf/locale/<lang>/LC_MESSAGES/membership.po
-source_file = conf/locale/en/LC_MESSAGES/membership.po
-source_lang = en
-type = PO
-
-[edx-i.membership-js]
-file_filter = conf/locale/<lang>/LC_MESSAGES/membership-js.po
-source_file = conf/locale/en/LC_MESSAGES/membership-js.po
-source_lang = en
-type = PO
-
-[edx-i.eliteu]
-file_filter = conf/locale/<lang>/LC_MESSAGES/eliteu.po
-source_file = conf/locale/en/LC_MESSAGES/eliteu.po
-source_lang = en
-type = PO
-
-[edx-i.edx_proctoring_proctortrack]
-file_filter = conf/locale/<lang>/LC_MESSAGES/eliteu.po
-source_file = conf/locale/en/LC_MESSAGES/eliteu.po
-source_lang = en
-type = PO
-
-[edx-i.django-theme]
+[elitemba.django-theme]
 file_filter = conf/locale/<lang>/LC_MESSAGES/django-theme.po
 source_file = conf/locale/en/LC_MESSAGES/django-theme.po
 source_lang = en
 type = PO
 
-[edx-i.djangojs-theme]
+[elitemba.djangojs-partial]
+file_filter = conf/locale/<lang>/LC_MESSAGES/djangojs-partial.po
+source_file = conf/locale/en/LC_MESSAGES/djangojs-partial.po
+source_lang = en
+type = PO
+
+[elitemba.djangojs-studio]
+file_filter = conf/locale/<lang>/LC_MESSAGES/djangojs-studio.po
+source_file = conf/locale/en/LC_MESSAGES/djangojs-studio.po
+source_lang = en
+type = PO
+
+[elitemba.djangojs-theme]
 file_filter = conf/locale/<lang>/LC_MESSAGES/djangojs-theme.po
 source_file = conf/locale/en/LC_MESSAGES/djangojs-theme.po
 source_lang = en
 type = PO
 
-[edx-i.mako-theme]
+[elitemba.mako]
+file_filter = conf/locale/<lang>/LC_MESSAGES/mako.po
+source_file = conf/locale/en/LC_MESSAGES/mako.po
+source_lang = en
+type = PO
+
+[elitemba.mako-studio]
+file_filter = conf/locale/<lang>/LC_MESSAGES/mako-studio.po
+source_file = conf/locale/en/LC_MESSAGES/mako-studio.po
+source_lang = en
+type = PO
+
+[elitemba.mako-theme]
 file_filter = conf/locale/<lang>/LC_MESSAGES/mako-theme.po
 source_file = conf/locale/en/LC_MESSAGES/mako-theme.po
 source_lang = en
 type = PO
 
-[edx-i.underscore-theme]
+[elitemba.underscore]
+file_filter = conf/locale/<lang>/LC_MESSAGES/underscore.po
+source_file = conf/locale/en/LC_MESSAGES/underscore.po
+source_lang = en
+type = PO
+
+[elitemba.underscore-studio]
+file_filter = conf/locale/<lang>/LC_MESSAGES/underscore-studio.po
+source_file = conf/locale/en/LC_MESSAGES/underscore-studio.po
+source_lang = en
+type = PO
+
+[elitemba.underscore-theme]
 file_filter = conf/locale/<lang>/LC_MESSAGES/underscore-theme.po
 source_file = conf/locale/en/LC_MESSAGES/underscore-theme.po
+source_lang = en
+type = PO
+
+[elitemba.wiki]
+file_filter = conf/locale/<lang>/LC_MESSAGES/wiki.po
+source_file = conf/locale/en/LC_MESSAGES/wiki.po
+source_lang = en
+type = PO
+
+[elitemba.membership]
+file_filter = conf/locale/<lang>/LC_MESSAGES/membership.po
+source_file = conf/locale/en/LC_MESSAGES/membership.po
+source_lang = en
+type = PO
+
+[elitemba.membership-js]
+file_filter = conf/locale/<lang>/LC_MESSAGES/membership-js.po
+source_file = conf/locale/en/LC_MESSAGES/membership-js.po
+source_lang = en
+type = PO
+
+[elitemba.eliteu]
+file_filter = conf/locale/<lang>/LC_MESSAGES/eliteu.po
+source_file = conf/locale/en/LC_MESSAGES/eliteu.po
 source_lang = en
 type = PO

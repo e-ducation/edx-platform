@@ -73,7 +73,7 @@ export class StudentAccountDeletion extends React.Component {
     );
 
     const acctDeletionWarningText = StringUtils.interpolate(
-      gettext('{strongStart}Warning: Account deletion is permanent.{strongEnd} Please read the above carefully before proceeding. This is an irreversible action, and {strongStart}you will no longer be able to use the same email on EliteMBA.{strongEnd}'),
+      gettext('{strongStart}Warning: Account deletion is permanent.{strongEnd} Please read the above carefully before proceeding. This is an irreversible action, and {strongStart}you will no longer be able to use the same email on Elite A.I. Academy.{strongEnd}'),
       {
         strongStart: '<strong>',
         strongEnd: '</strong>',
@@ -83,11 +83,11 @@ export class StudentAccountDeletion extends React.Component {
     return (
       <div className="account-deletion-details">
         <p className="account-settings-header-subtitle">{ gettext('We’re sorry to see you go!') }</p>
-        <p className="account-settings-header-subtitle">{ gettext('Please note: Deletion of your account and personal data is permanent and cannot be undone. EliteMBA will not be able to recover your account or the data that is deleted.') }</p>
+        <p className="account-settings-header-subtitle">{ gettext('Please note: Deletion of your account and personal data is permanent and cannot be undone. Elite A.I. Academy will not be able to recover your account or the data that is deleted.') }</p>
         {
           // <p className="account-settings-header-subtitle">{ gettext('Once your account is deleted, you cannot use it to take courses on the edX app, edx.org, or any other site hosted by edX. This includes access to edx.org from your employer’s or university’s system and access to private sites offered by MIT Open Learning, Wharton Executive Education, and Harvard Medical School.') }</p>
         }
-        <p className="account-settings-header-subtitle">{ gettext('Once your account is deleted, you cannot use it to take courses on the EliteMBA app, elitemba.cn, or any other site hosted by EliteMBA.') }</p>
+        <p className="account-settings-header-subtitle">{ gettext('Once your account is deleted, you cannot use it to take courses on the site hosted by Elite A.I. Academy.') }</p>
         <p
           className="account-settings-header-subtitle"
           dangerouslySetInnerHTML={{ __html: loseAccessText }}

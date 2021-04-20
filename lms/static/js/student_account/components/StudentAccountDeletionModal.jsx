@@ -137,8 +137,8 @@ class StudentAccountDeletionConfirmationModal extends React.Component {
                       <Icon id="delete-confirmation-body-warning-icon" className={['fa', 'fa-exclamation-triangle']} />
                     </div>
                     <div className="alert-content">
-                      <h3 className="alert-title">{ gettext('You have selected “Delete my account.” Deletion of your account and personal data is permanent and cannot be undone. EliteMBA will not be able to recover your account or the data that is deleted.') }</h3>
-                      <p>{ gettext('Once your account is deleted, you cannot use it to take courses on the EliteMBA app, elitemba.cn, or any other site hosted by EliteMBA.') }</p>
+                      <h3 className="alert-title">{ gettext('You have selected “Delete my account.” Deletion of your account and personal data is permanent and cannot be undone. Elite A.I. Academy will not be able to recover your account or the data that is deleted.') }</h3>
+                      <p>{ gettext('Once your account is deleted, you cannot use it to take courses on the site hosted by Elite A.I. Academy.') }</p>
                       <p dangerouslySetInnerHTML={{ __html: loseAccessText }} />
                     </div>
                   </div>
