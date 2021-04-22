@@ -190,17 +190,21 @@
                     return HtmlUtils.joinHtml(
                         this.indicators.success,
                         HtmlUtils.interpolateHtml(
-                            gettext('We\'ve sent a message to {email}. Click the link in the message to reset your password. Didn\'t receive the message? Contact {anchorStart}technical support{anchorEnd}.'),  // eslint-disable-line max-len
+                            // gettext('We\'ve sent a message to {email}. Click the link in the message to reset your password. Didn\'t receive the message? Contact {anchorStart}technical support{anchorEnd}.'),  // eslint-disable-line max-len
+                            // {
+                            //     email: this.model.get(this.options.emailAttribute),
+                            //     anchorStart: HtmlUtils.HTML(
+                            //         StringUtils.interpolate(
+                            //             '<a href="{passwordResetSupportUrl}">', {
+                            //                 passwordResetSupportUrl: this.options.passwordResetSupportUrl
+                            //             }
+                            //         )
+                            //     ),
+                            //     anchorEnd: HtmlUtils.HTML('</a>')
+                            // }
+                            gettext('We\'ve sent a message to {email}. Click the link in the message to reset your password. Didn\'t receive the message? Contact technical support.'),  // eslint-disable-line max-len
                             {
-                                email: this.model.get(this.options.emailAttribute),
-                                anchorStart: HtmlUtils.HTML(
-                                    StringUtils.interpolate(
-                                        '<a href="{passwordResetSupportUrl}">', {
-                                            passwordResetSupportUrl: this.options.passwordResetSupportUrl
-                                        }
-                                    )
-                                ),
-                                anchorEnd: HtmlUtils.HTML('</a>')
+                                email: this.model.get(this.options.emailAttribute)
                             }
                         )
                     );
